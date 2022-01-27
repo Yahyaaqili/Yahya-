@@ -17,19 +17,246 @@ http://s1.urhdiptv.net:8080/Manaf/Manaf123/80015
 http://s1.urhdiptv.net:8080/Manaf/Manaf123/80014
 #EXTINF:-1,beIN Sports 5 HD
 http://s1.urhdiptv.net:8080/Manaf/Manaf123/80013
- Bein max
-http://yassooo.com:8080/Manaf/Manaf123/120006
-#EXTINF:-1,beIN SPORTS MAX 2 4K 
-http://yassooo.com:8080/Manaf/Manaf123/120005
+#EXTINF:-1,BEIN SPORTS MAX 1 4K 
+http://s1.urhdiptv.net:8080/Manaf/Manaf123/120676
+#EXTINF:-1,BEIN SPORTS MAX 2 4K 
+http://s1.urhdiptv.net:8080/Manaf/Manaf123/120677
+#EXTM3U
+#EXTINF:-1,AR: beIN Sports Premium 1 HEVC
+http://iptv.journalsat.com:25461/305258085/journalsat/5
+#EXTINF:-1,AR: beIN Sports Premium 2 HEVC
+http://iptv.journalsat.com:25461/305258085/journalsat/6
+#EXTINF:-1,AR: beIN Sports Premium 3 HEVC
+http://iptv.journalsat.com:25461/305258085/journalsat/7
+#EXTINF:-1,AR: beIN Sports 1 HEVC
+http://iptv.journalsat.com:25461/305258085/journalsat/8
+#EXTINF:-1,AR: beIN Sports 2 HEVC
+http://iptv.journalsat.com:25461/305258085/journalsat/9
+#EXTINF:-1,AR: beIN Sports 3  HEVC
+http://iptv.journalsat.com:25461/305258085/journalsat/10
+#EXTINF:-1,AR: beIN Sports 4 HEVC
+http://iptv.journalsat.com:25461/305258085/journalsat/11
+#EXTINF:-1,AR: beIN Sports 5  HEVC
+http://iptv.journalsat.com:25461/305258085/journalsat/12
+#EXTINF:-1,AR: beIN Sports 6 HEVC
+http://iptv.journalsat.com:25461/305258085/journalsat/13
+#EXTINF:-1,AR: beIN Sports 7 HEVC
+http://iptv.journalsat.com:25461/305258085/journalsat/14
+#EXTINF:-1,Bein Sport Max 1 4K
+http://iptv.journalsat.com:25461/305258085/journalsat/773
+#EXTINF:-1,Bein Sport Max 2 4K
+http://iptv.journalsat.com:25461/305258085/journalsat/774
+#EXTINF:-1,beIN SPORTS MAX1 FullHD
+http://iptv.journalsat.com:25461/305258085/journalsat/775
+#EXTINF:-1,beIN SPORTS MAX2 FullHD
+http://iptv.journalsat.com:25461/305258085/journalsat/776
+#EXTINF:-1,beIN SPORTS MAX1 HD
+http://iptv.journalsat.com:25461/305258085/journalsat/777
+#EXTINF:-1,beIN SPORTS MAX1 LOW
+http://iptv.journalsat.com:25461/305258085/journalsat/778
+#EXTINF:-1,BeIN Sport Max HD 1
+http://iptv.journalsat.com:25461/305258085/journalsat/779
+#EXTINF:-1,BeIN Sport Max HD 2
+http://iptv.journalsat.com:25461/305258085/journalsat/780
+#EXTINF:-1,BeIN Sport Max SD 2
+http://iptv.journalsat.com:25461/305258085/journalsat/781
+#EXTINF:-1,BeIN Sport Max HD 1
+http://iptv.journalsat.com:25461/305258085/journalsat/861
+#EXTINF:-1,BeIN Sport Max HD 2
+http://iptv.journalsat.com:25461/305258085/journalsat/862
+#EXTINF:-1,BeIN Sport Max 4K 1
+http://iptv.journalsat.com:25461/305258085/journalsat/863
+#EXTINF:-1,BeIN Sport Max FHD 1
+http://iptv.journalsat.com:25461/305258085/journalsat/864
+#EXTINF:-1,BeIN Sport Max FHD 2
+http://iptv.journalsat.com:25461/305258085/journalsat/865
+#EXTINF:-1,BeIN Sport Max SD 1
+http://iptv.journalsat.com:25461/305258085/journalsat/866
+#EXTINF:-1,BeIN Sport Max SD 2
+http://iptv.journalsat.com:25461/305258085/journalsat/867
+#EXTINF:-1,Bein Sport Max 1 4K
+http://iptv.journalsat.com:25461/305258085/journalsat/868
+#EXTINF:-1,Bein Sport Max 2 4K
+http://iptv.journalsat.com:25461/305258085/journalsat/869
+#EXTINF:-1,Bein Sport Max 1 FHD backup
+http://iptv.journalsat.com:25461/305258085/journalsat/870
+#EXTINF:-1,Bein Sport Max 2 FHD backup
+http://iptv.journalsat.com:25461/305258085/journalsat/871
+#EXTINF:-1,Bein Sport Max 1 HD backup
+http://iptv.journalsat.com:25461/305258085/journalsat/872
+#EXTINF:-1,Bein Sport Max 2 HD backup
+http://iptv.journalsat.com:25461/305258085/journalsat/873
+#EXTINF:-1,Bein Sport Max 1 SD backup
+http://iptv.journalsat.com:25461/305258085/journalsat/874
+#EXTINF:-1,Bein Sport Max 2 SD backup
+http://iptv.journalsat.com:25461/305258085/journalsat/875
+#EXTINF:-1,BeIN Sport Max 1 4k local G
+http://iptv.journalsat.com:25461/305258085/journalsat/876
+#EXTINF:-1,BeIN Sport Max 2 4k local G
+http://iptv.journalsat.com:25461/305258085/journalsat/877
+#EXTINF:-1,AR: beIN Sport HD
+http://iptv.journalsat.com:25461/305258085/journalsat/15
+#EXTINF:-1,AR: beIN sports News
+http://iptv.journalsat.com:25461/305258085/journalsat/16
+#EXTINF:-1,AR: beIN Sports Premium HD1
+http://iptv.journalsat.com:25461/305258085/journalsat/17
+#EXTINF:-1,AR: beIN Sports Premium HD2
+http://iptv.journalsat.com:25461/305258085/journalsat/18
+#EXTINF:-1,AR: beIN Sports Premium HD3
+http://iptv.journalsat.com:25461/305258085/journalsat/19
+#EXTINF:-1,AR: beIN SPORTS HD1
+http://iptv.journalsat.com:25461/305258085/journalsat/20
+#EXTINF:-1,AR: beIN SPORTS HD2
+http://iptv.journalsat.com:25461/305258085/journalsat/21
+#EXTINF:-1,AR: beIN SPORTS HD3
+http://iptv.journalsat.com:25461/305258085/journalsat/22
+#EXTINF:-1,AR: beIN SPORTS HD4
+http://iptv.journalsat.com:25461/305258085/journalsat/23
+#EXTINF:-1,AR: beIN SPORTS HD5
+http://iptv.journalsat.com:25461/305258085/journalsat/24
+#EXTINF:-1,AR: beIN SPORTS HD6
+http://iptv.journalsat.com:25461/305258085/journalsat/25
+#EXTINF:-1,AR: beIN SPORTS HD7
+http://iptv.journalsat.com:25461/305258085/journalsat/26
+#EXTINF:-1,AR: beIN SPORTS ENGLISH 1
+http://iptv.journalsat.com:25461/305258085/journalsat/27
+#EXTINF:-1,AR: beIN SPORTS ENGLISH 2
+http://iptv.journalsat.com:25461/305258085/journalsat/28
+#EXTINF:-1,AR: beIN Sports Premium SD1
+http://iptv.journalsat.com:25461/305258085/journalsat/29
+#EXTINF:-1,AR: beIN Sports Premium SD2
+http://iptv.journalsat.com:25461/305258085/journalsat/30
+#EXTINF:-1,AR: beIN Sports Premium SD3
+http://iptv.journalsat.com:25461/305258085/journalsat/31
+#EXTINF:-1,AR: beIN SPORTS SD1
+http://iptv.journalsat.com:25461/305258085/journalsat/32
+#EXTINF:-1,AR: beIN SPORTS SD2
+http://iptv.journalsat.com:25461/305258085/journalsat/33
+#EXTINF:-1,AR: beIN SPORTS SD3
+http://iptv.journalsat.com:25461/305258085/journalsat/34
+#EXTINF:-1,AR: beIN SPORTS SD4
+http://iptv.journalsat.com:25461/305258085/journalsat/35
+#EXTINF:-1,AR: beIN SPORTS SD5
+http://iptv.journalsat.com:25461/305258085/journalsat/36
+#EXTINF:-1,AR: beIN SPORTS SD6
+http://iptv.journalsat.com:25461/305258085/journalsat/37
+#EXTINF:-1,AR: beIN SPORTS SD7
+http://iptv.journalsat.com:25461/305258085/journalsat/38
+#EXTINF:-1,AR: beIN SPORTS LOW1
+http://iptv.journalsat.com:25461/305258085/journalsat/39
+#EXTINF:-1,AR: beIN SPORTS LOW2
+http://iptv.journalsat.com:25461/305258085/journalsat/40
+#EXTINF:-1,AR: beIN SPORTS LOW3
+http://iptv.journalsat.com:25461/305258085/journalsat/41
+#EXTINF:-1,AR: beIN SPORTS LOW4
+http://iptv.journalsat.com:25461/305258085/journalsat/42
+#EXTINF:-1,AR: beIN SPORTS LOW5
+http://iptv.journalsat.com:25461/305258085/journalsat/43
+#EXTINF:-1,beIN Sports Premium 1
+http://iptv.journalsat.com:25461/305258085/journalsat/44
+#EXTINF:-1,beIN Sports Premium 2
+http://iptv.journalsat.com:25461/305258085/journalsat/45
+#EXTINF:-1,beIN Sports Premium 3
+http://iptv.journalsat.com:25461/305258085/journalsat/46
+#EXTINF:-1,Bein Sport 1
+http://iptv.journalsat.com:25461/305258085/journalsat/47
+#EXTINF:-1,Bein Sport 2
+http://iptv.journalsat.com:25461/305258085/journalsat/48
+#EXTINF:-1,Bein Sport 3
+http://iptv.journalsat.com:25461/305258085/journalsat/49
+#EXTINF:-1,Bein Sport 4
+http://iptv.journalsat.com:25461/305258085/journalsat/50
+#EXTINF:-1,Bein Sport 5
+http://iptv.journalsat.com:25461/305258085/journalsat/51
+#EXTINF:-1,Bein Sport 6
+http://iptv.journalsat.com:25461/305258085/journalsat/52
+#EXTINF:-1,Bein Sport 7
+http://iptv.journalsat.com:25461/305258085/journalsat/53
+#EXTINF:-1,AR:  beIN Jeem
+http://iptv.journalsat.com:25461/305258085/journalsat/54
+#EXTINF:-1,AR:  beIN Outdoor
+http://iptv.journalsat.com:25461/305258085/journalsat/55
+#EXTINF:-1,AR:  beIN AMC
+http://iptv.journalsat.com:25461/305258085/journalsat/56
+#EXTINF:-1,AR: beIN  Drama
+http://iptv.journalsat.com:25461/305258085/journalsat/57
+#EXTINF:-1,AR: beIN  Gourmet
+http://iptv.journalsat.com:25461/305258085/journalsat/58
+#EXTINF:-1,AR: beIN Movies 1 HD
+http://iptv.journalsat.com:25461/305258085/journalsat/59
+#EXTINF:-1,AR: beIN Movies 2 HD
+http://iptv.journalsat.com:25461/305258085/journalsat/60
+#EXTINF:-1,AR: beIN Movies 3 HD
+http://iptv.journalsat.com:25461/305258085/journalsat/61
+#EXTINF:-1,AR: beIN Movies 4 HD
+http://iptv.journalsat.com:25461/305258085/journalsat/62
+#EXTINF:-1,AR: beIN Series 1 HD
+http://iptv.journalsat.com:25461/305258085/journalsat/63
+#EXTINF:-1,AR: beIN Series 2 HD
+http://iptv.journalsat.com:25461/305258085/journalsat/64
+#EXTINF:-1,AR: beIN Jeem HD
+http://iptv.journalsat.com:25461/305258085/journalsat/65
+#EXTINF:-1,AR: beIN Fox Movies
+http://iptv.journalsat.com:25461/305258085/journalsat/66
+#EXTINF:-1,AR: beIN FATAFEAT HD
+http://iptv.journalsat.com:25461/305258085/journalsat/67
+#EXTINF:-1,AR: beIN Baraeem
+http://iptv.journalsat.com:25461/305258085/journalsat/68
+#EXTINF:-1,Bein HGTV
+http://iptv.journalsat.com:25461/305258085/journalsat/69
+#EXTINF:-1,AR bein DTX
+http://iptv.journalsat.com:25461/305258085/journalsat/70
+#EXTINF:-1,[AR] PROGRAMME-NATIONAL [DZ]
+http://iptv.journalsat.com:25461/305258085/journalsat/691
+#EXTINF:-1,[AR] CANAL-ALGERIE [DZ]
+http://iptv.journalsat.com:25461/305258085/journalsat/692
+#EXTINF:-1,[AR] ALGERIE-3 [DZ]
+http://iptv.journalsat.com:25461/305258085/journalsat/693
+#EXTINF:-1,[AR] ALGERIE-4 [DZ]
+http://iptv.journalsat.com:25461/305258085/journalsat/694
+#EXTINF:-1,[AR] ALGERIE-5-TV-CORAN [DZ]
+http://iptv.journalsat.com:25461/305258085/journalsat/695
+#EXTINF:-1,[AR] BEUR-TV [DZ]
+http://iptv.journalsat.com:25461/305258085/journalsat/696
+#EXTINF:-1,[AR] ECHOUROUK-TV [DZ]
+http://iptv.journalsat.com:25461/305258085/journalsat/697
+#EXTINF:-1,[AR] ECHOUROUK-NEWS [DZ]
+http://iptv.journalsat.com:25461/305258085/journalsat/698
+#EXTINF:-1,[AR] Ennahar-TV [DZ]
+http://iptv.journalsat.com:25461/305258085/journalsat/699
+#EXTINF:-1,[AR] SAMIRA-TV [DZ]
+http://iptv.journalsat.com:25461/305258085/journalsat/700
+#EXTINF:-1,[AR] El-Heddaf-TV [DZ]
+http://iptv.journalsat.com:25461/305258085/journalsat/702
+#EXTINF:-1,[AR] DzairTV [DZ]
+http://iptv.journalsat.com:25461/305258085/journalsat/703
+#EXTINF:-1,[AR] Berbere_Television [DZ]
+http://iptv.journalsat.com:25461/305258085/journalsat/704
+#EXTINF:-1,[AR] ELBILAD [DZ]
+http://iptv.journalsat.com:25461/305258085/journalsat/705
+#EXTINF:-1,[AR] Bahia TV [DZ]
+http://iptv.journalsat.com:25461/305258085/journalsat/706
+#EXTINF:-1,[AR] ALGERIE-6 [DZ]
+http://iptv.journalsat.com:25461/305258085/journalsat/707
+#EXTINF:-1,ssc1 hd
+http://iptv.journalsat.com:25461/305258085/journalsat/766
+#EXTINF:-1,ssc2 fhd
+http://iptv.journalsat.com:25461/305258085/journalsat/767
+#EXTINF:-1,ssc3 hd
+http://iptv.journalsat.com:25461/305258085/journalsat/768
+#EXTINF:-1,ssc4 hd
+http://iptv.journalsat.com:25461/305258085/journalsat/769
+#EXTINF:-1,ssc5 hd
+http://iptv.journalsat.com:25461/305258085/journalsat/770
+#EXTINF:-1,ssc6 hd
+http://iptv.journalsat.com:25461/305258085/journalsat/771
+#EXTINF:-1,ssc7 hd
+http://iptv.journalsat.com:25461/305258085/journalsat/772
 
 #EXTINF:-1,BEIN SPORTS MAX 1 4K 
 http://s1.urhdiptv.net:8080/Manaf/Manaf123/120006
 #EXTINF:-1,BEIN SPORTS MAX 2 4K 
 http://s1.urhdiptv.net:8080/Manaf/Manaf123/120005
-#EXTINF:-1,BEIN SPORTS MAX 1 4K 
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/120676
-#EXTINF:-1,BEIN SPORTS MAX 2 4K 
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/120677
 #EXTINF:-1,BEIN SPORTS MAX 1 4K 
 http://s1.urhdiptv.net:8080/Manaf/Manaf123/120810
 #EXTINF:-1,BEIN SPORTS MAX 2 4K 
@@ -207,45 +434,6 @@ http://l3.amaniyouhra.xyz:80/live/788550011/index.m3u8
 #EXTINF:-1,KIMO SPORTS 7SD
 http://l3.amaniyouhra.xyz:80/live/100666696/index.m3u8
 
-####         BEIN FULL             ####
-
-#EXTINF:-1,beIN Sports 1 Premium 
-http://174.138.184.166:25461/livesport_ios/livesport_android/13
-#EXTINF:-1,beIN Sports 2 Premium 
-http://174.138.184.166:25461/livesport_ios/livesport_android/14
-#EXTINF:-1,beIN Sports 3 Premium 
-http://174.138.184.166:25461/livesport_ios/livesport_android/15
-#EXTINF:-1,beIN Sports 1 HD
-http://174.138.184.166:25461/livesport_ios/livesport_android/16
-#EXTINF:-1,beIN Sports 2 HD
-http://174.138.184.166:25461/livesport_ios/livesport_android/17
-#EXTINF:-1,beIN Sports 3 HD
-http://174.138.184.166:25461/livesport_ios/livesport_android/18
-#EXTINF:-1,beIN Sports 4 HD
-http://174.138.184.166:25461/livesport_ios/livesport_android/19
-#EXTINF:-1,beIN Sports 5 HD
-http://174.138.184.166:25461/livesport_ios/livesport_android/20
-#EXTINF:-1,beIN Sports 1 Premium
-http://174.138.184.166:25461/livesport_ios/livesport_android/26
-#EXTINF:-1,beIN Sports 2 Premium
-http://174.138.184.166:25461/livesport_ios/livesport_android/27
-#EXTINF:-1,beIN Sports 3 Premium
-http://174.138.184.166:25461/livesport_ios/livesport_android/28
-#EXTINF:-1,beIN Sports 1 SD
-http://174.138.184.166:25461/livesport_ios/livesport_android/29
-#EXTINF:-1,beIN Sports 2 SD
-http://174.138.184.166:25461/livesport_ios/livesport_android/30
-#EXTINF:-1,beIN Sports 3 SD
-http://174.138.184.166:25461/livesport_ios/livesport_android/31
-#EXTINF:-1,beIN Sports 4 SD
-http://174.138.184.166:25461/livesport_ios/livesport_android/32
-#EXTINF:-1,beIN Sports 5 SD
-http://174.138.184.166:25461/livesport_ios/livesport_android/33
-#EXTINF:-1,beIN Sport XTRA 1 HD
-http://174.138.184.166:25461/livesport_ios/livesport_android/56
-#EXTINF:-1,beIN Sport XTRA 2 HD
-http://174.138.184.166:25461/livesport_ios/livesport_android/57
-
 ####            SSC SPORTS         ####
 
 #EXTINF:-1,SSC5 HD
@@ -254,11 +442,6 @@ http://yassooo.com:8080/Manaf/Manaf123/98913
 http://geo-stream.xyz:8880/live/54393917/67737458/466086.ts
 #EXTINF:-1,SSC5
 http://geo-stream.xyz:8880/live/54393917/67737458/466093.ts
-
-####             USA         ####
-#EXTINF:-1 tvg-id="GloryKickboxing.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/AQbc1ER.jpg" group-title="Sports",Glory Kickboxing (432p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglorykickboxing/CDN/playlist.m3u8
-#####            OSN          ####
 
 #EXTINF:-1,OSN Yahala
 http://yassooo.com:8080/Manaf/Manaf123/80233
@@ -346,54 +529,6 @@ http://yassooo.com:8080/Manaf/Manaf123/80191
 http://yassooo.com:8080/Manaf/Manaf123/80190
 #EXTINF:-1,OSN Kids Zone
 http://yassooo.com:8080/Manaf/Manaf123/80189
-
-####               MAROC TV             ####
-
-#EXTINF:-1 tvg-id="2MMonde.ma" tvg-country="MA" tvg-language="Arabic;French" tvg-logo="https://i.imgur.com/CwwRn4b.png" group-title="General",2M Monde (360p) [Geo-blocked]
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8
-#EXTINF:-1 tvg-id="AlAoula.ma" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ZFHjIVU.png" group-title="General",Al Aoula (360p) [Geo-blocked]
-http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8
-#EXTINF:-1 tvg-id="AlAoula.ma" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ZFHjIVU.png" group-title="General",Al Aoula (360p) [Geo-blocked]
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8
-#EXTINF:-1 tvg-id="AlAoulaLaayoune.ma" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ZFHjIVU.png" group-title="General",Al Aoula Laayoune (360p) [Geo-blocked]
-http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
-#EXTINF:-1 tvg-id="AlAoulaLaayoune.ma" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ZFHjIVU.png" group-title="General",Al Aoula Laayoune (360p) [Geo-blocked]
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
-#EXTINF:-1 tvg-id="AlMaghribia.ma" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ZlmQSBl.png" group-title="General",Al Maghribia (360p) [Geo-blocked]
-http://cdn-hls.globecast.tv/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
-#EXTINF:-1 tvg-id="AlMaghribia.ma" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ZlmQSBl.png" group-title="General",Al Maghribia (360p) [Geo-blocked]
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
-#EXTINF:-1 tvg-id="Arrabiaa.ma" tvg-country="MA" tvg-language="Arabic;French" tvg-logo="https://i.imgur.com/FvgdLdG.png" group-title="General",Arrabiaa (360p) [Geo-blocked]
-http://cdn-hls.globecast.tv/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
-#EXTINF:-1 tvg-id="Arrabiaa.ma" tvg-country="MA" tvg-language="Arabic;French" tvg-logo="https://i.imgur.com/FvgdLdG.png" group-title="General",Arrabiaa (360p) [Geo-blocked]
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
-#EXTINF:-1 tvg-id="Arryadia.ma" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/liFebM9.png" group-title="Sports",Arryadia (360p) [Geo-blocked]
-http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8
-#EXTINF:-1 tvg-id="Arryadia.ma" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/liFebM9.png" group-title="Sports",Arryadia (360p) [Geo-blocked]
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
-#EXTINF:-1 tvg-id="Assadissa.ma" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/VQUrMjE.png" group-title="General",Assadissa (360p) [Geo-blocked]
-http://cdn-hls.globecast.tv/live/ramdisk/assadissa/hls_snrt/index.m3u8
-#EXTINF:-1 tvg-id="Assadissa.ma" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/VQUrMjE.png" group-title="General",Assadissa (360p) [Geo-blocked]
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/index.m3u8
-#EXTINF:-1 tvg-id="M24TV.ma" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/J7GdM3L.png" group-title="News",M24 TV (720p) [Not 24/7]
-http://79.137.106.241/live/smil:OutStream1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="M24TV.ma" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/J7GdM3L.png" group-title="News",M24 TV (720p) [Not 24/7]
-https://www.m24tv.ma/live/smil:OutStream1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="MaghrebArabePress.ma" tvg-country="MA" tvg-language="Arabic" tvg-logo="" group-title="",Maghreb Arabe Press (720p) [Not 24/7]
-https://www.maptvnews.ma/live/smil:OutStream1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Medi1TVAfrique.ma" tvg-country="MA" tvg-language="French" tvg-logo="https://i.imgur.com/MosTwQW.png" group-title="News",Medi 1 TV Afrique (1080p) [Not 24/7]
-https://5f72f3a9b06b7.streamlock.net/live/smil:medi1fr.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Medi1TVArabic.ma" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/MosTwQW.png" group-title="News",Medi 1 TV Arabic (1080p) [Not 24/7]
-https://5f72f3a9b06b7.streamlock.net/live/smil:medi1ar.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Medi1TVMaghreb.ma" tvg-country="MA" tvg-language="French;Arabic" tvg-logo="https://i.imgur.com/MosTwQW.png" group-title="News",Medi 1 TV Maghreb (1080p) [Not 24/7]
-https://5f72f3a9b06b7.streamlock.net/live/smil:medi1tv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Tamazight.ma" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/uC6IF9P.png" group-title="General",Tamazight (360p) [Geo-blocked]
-http://cdn-hls.globecast.tv/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
-#EXTINF:-1 tvg-id="Tamazight.ma" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/uC6IF9P.png" group-title="General",Tamazight (360p) [Geo-blocked]
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
-#EXTINF:-1 tvg-id="TeleMaroc.ma" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/7sibv0t.png" group-title="General",Télé Maroc (1080p)
-https://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8
-
 ####           MBC GROUPE          ####
 
 #EXTINF:-1,MBC1 HD
@@ -442,26 +577,3 @@ http://yassooo.com:8080/Manaf/Manaf123/80255
 http://yassooo.com:8080/Manaf/Manaf123/80254
 #EXTINF:-1 tvg-id="Ajyal TV ARB" tvg-name="Ajyal TV ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/j1Xmygq.jpg" group-title="",Ajyal TV
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
-####             NETFLIX            #####
-
-#EXTINF:-1,Netflix Action
-http://yassooo.com:8080/Manaf/Manaf123/79885
-#EXTINF:-1,Netflix Arabic
-http://yassooo.com:8080/Manaf/Manaf123/79884
-#EXTINF:-1,Netflix Comedy
-http://yassooo.com:8080/Manaf/Manaf123/79883
-#EXTINF:-1,Netflix Crime
-http://yassooo.com:8080/Manaf/Manaf123/79882
-#EXTINF:-1,Netflix Drama
-http://yassooo.com:8080/Manaf/Manaf123/79881
-#EXTINF:-1,Netflix Horror
-http://yassooo.com:8080/Manaf/Manaf123/79880
-#EXTINF:-1,Netflix Mystery
-http://yassooo.com:8080/Manaf/Manaf123/79879
-#EXTINF:-1,Netflix Romance
-http://yassooo.com:8080/Manaf/Manaf123/79878
-#EXTINF:-1,Netflix Sci-Fi
-http://yassooo.com:8080/Manaf/Manaf123/79877
-
-
-####           Coming Soon          ####
