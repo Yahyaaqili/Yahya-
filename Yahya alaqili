@@ -1,579 +1,1264 @@
-#EXTM3U 
-####           BEIN 4K            #####
-
-#EXTINF:-1,BEIN SPORTS premium 1 
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/80020
-#EXTINF:-1,BEIN SPORTS premium 2 
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/80019
-#EXTINF:-1,BEIN SPORTS premium 3 
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/80018
-#EXTINF:-1,beIN Sports 1 HD
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/80017
-#EXTINF:-1,beIN Sports 2 HD
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/80016
-#EXTINF:-1,beIN Sports 3 HD
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/80015
-#EXTINF:-1,beIN Sports 4 HD
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/80014
-#EXTINF:-1,beIN Sports 5 HD
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/80013
-#EXTINF:-1,BEIN SPORTS MAX 1 4K 
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/120676
-#EXTINF:-1,BEIN SPORTS MAX 2 4K 
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/120677
 #EXTM3U
-#EXTINF:-1,AR: beIN Sports Premium 1 HEVC
-http://iptv.journalsat.com:25461/305258085/journalsat/5
-#EXTINF:-1,AR: beIN Sports Premium 2 HEVC
-http://iptv.journalsat.com:25461/305258085/journalsat/6
-#EXTINF:-1,AR: beIN Sports Premium 3 HEVC
-http://iptv.journalsat.com:25461/305258085/journalsat/7
-#EXTINF:-1,AR: beIN Sports 1 HEVC
-http://iptv.journalsat.com:25461/305258085/journalsat/8
-#EXTINF:-1,AR: beIN Sports 2 HEVC
-http://iptv.journalsat.com:25461/305258085/journalsat/9
-#EXTINF:-1,AR: beIN Sports 3  HEVC
-http://iptv.journalsat.com:25461/305258085/journalsat/10
-#EXTINF:-1,AR: beIN Sports 4 HEVC
-http://iptv.journalsat.com:25461/305258085/journalsat/11
-#EXTINF:-1,AR: beIN Sports 5  HEVC
-http://iptv.journalsat.com:25461/305258085/journalsat/12
-#EXTINF:-1,AR: beIN Sports 6 HEVC
-http://iptv.journalsat.com:25461/305258085/journalsat/13
-#EXTINF:-1,AR: beIN Sports 7 HEVC
-http://iptv.journalsat.com:25461/305258085/journalsat/14
-#EXTINF:-1,Bein Sport Max 1 4K
-http://iptv.journalsat.com:25461/305258085/journalsat/773
-#EXTINF:-1,Bein Sport Max 2 4K
-http://iptv.journalsat.com:25461/305258085/journalsat/774
-#EXTINF:-1,beIN SPORTS MAX1 FullHD
-http://iptv.journalsat.com:25461/305258085/journalsat/775
-#EXTINF:-1,beIN SPORTS MAX2 FullHD
-http://iptv.journalsat.com:25461/305258085/journalsat/776
-#EXTINF:-1,beIN SPORTS MAX1 HD
-http://iptv.journalsat.com:25461/305258085/journalsat/777
-#EXTINF:-1,beIN SPORTS MAX1 LOW
-http://iptv.journalsat.com:25461/305258085/journalsat/778
-#EXTINF:-1,BeIN Sport Max HD 1
-http://iptv.journalsat.com:25461/305258085/journalsat/779
-#EXTINF:-1,BeIN Sport Max HD 2
-http://iptv.journalsat.com:25461/305258085/journalsat/780
-#EXTINF:-1,BeIN Sport Max SD 2
-http://iptv.journalsat.com:25461/305258085/journalsat/781
-#EXTINF:-1,BeIN Sport Max HD 1
-http://iptv.journalsat.com:25461/305258085/journalsat/861
-#EXTINF:-1,BeIN Sport Max HD 2
-http://iptv.journalsat.com:25461/305258085/journalsat/862
-#EXTINF:-1,BeIN Sport Max 4K 1
-http://iptv.journalsat.com:25461/305258085/journalsat/863
-#EXTINF:-1,BeIN Sport Max FHD 1
-http://iptv.journalsat.com:25461/305258085/journalsat/864
-#EXTINF:-1,BeIN Sport Max FHD 2
-http://iptv.journalsat.com:25461/305258085/journalsat/865
-#EXTINF:-1,BeIN Sport Max SD 1
-http://iptv.journalsat.com:25461/305258085/journalsat/866
-#EXTINF:-1,BeIN Sport Max SD 2
-http://iptv.journalsat.com:25461/305258085/journalsat/867
-#EXTINF:-1,Bein Sport Max 1 4K
-http://iptv.journalsat.com:25461/305258085/journalsat/868
-#EXTINF:-1,Bein Sport Max 2 4K
-http://iptv.journalsat.com:25461/305258085/journalsat/869
-#EXTINF:-1,Bein Sport Max 1 FHD backup
-http://iptv.journalsat.com:25461/305258085/journalsat/870
-#EXTINF:-1,Bein Sport Max 2 FHD backup
-http://iptv.journalsat.com:25461/305258085/journalsat/871
-#EXTINF:-1,Bein Sport Max 1 HD backup
-http://iptv.journalsat.com:25461/305258085/journalsat/872
-#EXTINF:-1,Bein Sport Max 2 HD backup
-http://iptv.journalsat.com:25461/305258085/journalsat/873
-#EXTINF:-1,Bein Sport Max 1 SD backup
-http://iptv.journalsat.com:25461/305258085/journalsat/874
-#EXTINF:-1,Bein Sport Max 2 SD backup
-http://iptv.journalsat.com:25461/305258085/journalsat/875
-#EXTINF:-1,BeIN Sport Max 1 4k local G
-http://iptv.journalsat.com:25461/305258085/journalsat/876
-#EXTINF:-1,BeIN Sport Max 2 4k local G
-http://iptv.journalsat.com:25461/305258085/journalsat/877
-#EXTINF:-1,AR: beIN Sport HD
-http://iptv.journalsat.com:25461/305258085/journalsat/15
-#EXTINF:-1,AR: beIN sports News
-http://iptv.journalsat.com:25461/305258085/journalsat/16
-#EXTINF:-1,AR: beIN Sports Premium HD1
-http://iptv.journalsat.com:25461/305258085/journalsat/17
-#EXTINF:-1,AR: beIN Sports Premium HD2
-http://iptv.journalsat.com:25461/305258085/journalsat/18
-#EXTINF:-1,AR: beIN Sports Premium HD3
-http://iptv.journalsat.com:25461/305258085/journalsat/19
-#EXTINF:-1,AR: beIN SPORTS HD1
-http://iptv.journalsat.com:25461/305258085/journalsat/20
-#EXTINF:-1,AR: beIN SPORTS HD2
-http://iptv.journalsat.com:25461/305258085/journalsat/21
-#EXTINF:-1,AR: beIN SPORTS HD3
-http://iptv.journalsat.com:25461/305258085/journalsat/22
-#EXTINF:-1,AR: beIN SPORTS HD4
-http://iptv.journalsat.com:25461/305258085/journalsat/23
-#EXTINF:-1,AR: beIN SPORTS HD5
-http://iptv.journalsat.com:25461/305258085/journalsat/24
-#EXTINF:-1,AR: beIN SPORTS HD6
-http://iptv.journalsat.com:25461/305258085/journalsat/25
-#EXTINF:-1,AR: beIN SPORTS HD7
-http://iptv.journalsat.com:25461/305258085/journalsat/26
-#EXTINF:-1,AR: beIN SPORTS ENGLISH 1
-http://iptv.journalsat.com:25461/305258085/journalsat/27
-#EXTINF:-1,AR: beIN SPORTS ENGLISH 2
-http://iptv.journalsat.com:25461/305258085/journalsat/28
-#EXTINF:-1,AR: beIN Sports Premium SD1
-http://iptv.journalsat.com:25461/305258085/journalsat/29
-#EXTINF:-1,AR: beIN Sports Premium SD2
-http://iptv.journalsat.com:25461/305258085/journalsat/30
-#EXTINF:-1,AR: beIN Sports Premium SD3
-http://iptv.journalsat.com:25461/305258085/journalsat/31
-#EXTINF:-1,AR: beIN SPORTS SD1
-http://iptv.journalsat.com:25461/305258085/journalsat/32
-#EXTINF:-1,AR: beIN SPORTS SD2
-http://iptv.journalsat.com:25461/305258085/journalsat/33
-#EXTINF:-1,AR: beIN SPORTS SD3
-http://iptv.journalsat.com:25461/305258085/journalsat/34
-#EXTINF:-1,AR: beIN SPORTS SD4
-http://iptv.journalsat.com:25461/305258085/journalsat/35
-#EXTINF:-1,AR: beIN SPORTS SD5
-http://iptv.journalsat.com:25461/305258085/journalsat/36
-#EXTINF:-1,AR: beIN SPORTS SD6
-http://iptv.journalsat.com:25461/305258085/journalsat/37
-#EXTINF:-1,AR: beIN SPORTS SD7
-http://iptv.journalsat.com:25461/305258085/journalsat/38
-#EXTINF:-1,AR: beIN SPORTS LOW1
-http://iptv.journalsat.com:25461/305258085/journalsat/39
-#EXTINF:-1,AR: beIN SPORTS LOW2
-http://iptv.journalsat.com:25461/305258085/journalsat/40
-#EXTINF:-1,AR: beIN SPORTS LOW3
-http://iptv.journalsat.com:25461/305258085/journalsat/41
-#EXTINF:-1,AR: beIN SPORTS LOW4
-http://iptv.journalsat.com:25461/305258085/journalsat/42
-#EXTINF:-1,AR: beIN SPORTS LOW5
-http://iptv.journalsat.com:25461/305258085/journalsat/43
-#EXTINF:-1,beIN Sports Premium 1
-http://iptv.journalsat.com:25461/305258085/journalsat/44
-#EXTINF:-1,beIN Sports Premium 2
-http://iptv.journalsat.com:25461/305258085/journalsat/45
-#EXTINF:-1,beIN Sports Premium 3
-http://iptv.journalsat.com:25461/305258085/journalsat/46
-#EXTINF:-1,Bein Sport 1
-http://iptv.journalsat.com:25461/305258085/journalsat/47
-#EXTINF:-1,Bein Sport 2
-http://iptv.journalsat.com:25461/305258085/journalsat/48
-#EXTINF:-1,Bein Sport 3
-http://iptv.journalsat.com:25461/305258085/journalsat/49
-#EXTINF:-1,Bein Sport 4
-http://iptv.journalsat.com:25461/305258085/journalsat/50
-#EXTINF:-1,Bein Sport 5
-http://iptv.journalsat.com:25461/305258085/journalsat/51
-#EXTINF:-1,Bein Sport 6
-http://iptv.journalsat.com:25461/305258085/journalsat/52
-#EXTINF:-1,Bein Sport 7
-http://iptv.journalsat.com:25461/305258085/journalsat/53
-#EXTINF:-1,AR:  beIN Jeem
-http://iptv.journalsat.com:25461/305258085/journalsat/54
-#EXTINF:-1,AR:  beIN Outdoor
-http://iptv.journalsat.com:25461/305258085/journalsat/55
-#EXTINF:-1,AR:  beIN AMC
-http://iptv.journalsat.com:25461/305258085/journalsat/56
-#EXTINF:-1,AR: beIN  Drama
-http://iptv.journalsat.com:25461/305258085/journalsat/57
-#EXTINF:-1,AR: beIN  Gourmet
-http://iptv.journalsat.com:25461/305258085/journalsat/58
-#EXTINF:-1,AR: beIN Movies 1 HD
-http://iptv.journalsat.com:25461/305258085/journalsat/59
-#EXTINF:-1,AR: beIN Movies 2 HD
-http://iptv.journalsat.com:25461/305258085/journalsat/60
-#EXTINF:-1,AR: beIN Movies 3 HD
-http://iptv.journalsat.com:25461/305258085/journalsat/61
-#EXTINF:-1,AR: beIN Movies 4 HD
-http://iptv.journalsat.com:25461/305258085/journalsat/62
-#EXTINF:-1,AR: beIN Series 1 HD
-http://iptv.journalsat.com:25461/305258085/journalsat/63
-#EXTINF:-1,AR: beIN Series 2 HD
-http://iptv.journalsat.com:25461/305258085/journalsat/64
-#EXTINF:-1,AR: beIN Jeem HD
-http://iptv.journalsat.com:25461/305258085/journalsat/65
-#EXTINF:-1,AR: beIN Fox Movies
-http://iptv.journalsat.com:25461/305258085/journalsat/66
-#EXTINF:-1,AR: beIN FATAFEAT HD
-http://iptv.journalsat.com:25461/305258085/journalsat/67
-#EXTINF:-1,AR: beIN Baraeem
-http://iptv.journalsat.com:25461/305258085/journalsat/68
-#EXTINF:-1,Bein HGTV
-http://iptv.journalsat.com:25461/305258085/journalsat/69
-#EXTINF:-1,AR bein DTX
-http://iptv.journalsat.com:25461/305258085/journalsat/70
-#EXTINF:-1,[AR] PROGRAMME-NATIONAL [DZ]
-http://iptv.journalsat.com:25461/305258085/journalsat/691
-#EXTINF:-1,[AR] CANAL-ALGERIE [DZ]
-http://iptv.journalsat.com:25461/305258085/journalsat/692
-#EXTINF:-1,[AR] ALGERIE-3 [DZ]
-http://iptv.journalsat.com:25461/305258085/journalsat/693
-#EXTINF:-1,[AR] ALGERIE-4 [DZ]
-http://iptv.journalsat.com:25461/305258085/journalsat/694
-#EXTINF:-1,[AR] ALGERIE-5-TV-CORAN [DZ]
-http://iptv.journalsat.com:25461/305258085/journalsat/695
-#EXTINF:-1,[AR] BEUR-TV [DZ]
-http://iptv.journalsat.com:25461/305258085/journalsat/696
-#EXTINF:-1,[AR] ECHOUROUK-TV [DZ]
-http://iptv.journalsat.com:25461/305258085/journalsat/697
-#EXTINF:-1,[AR] ECHOUROUK-NEWS [DZ]
-http://iptv.journalsat.com:25461/305258085/journalsat/698
-#EXTINF:-1,[AR] Ennahar-TV [DZ]
-http://iptv.journalsat.com:25461/305258085/journalsat/699
-#EXTINF:-1,[AR] SAMIRA-TV [DZ]
-http://iptv.journalsat.com:25461/305258085/journalsat/700
-#EXTINF:-1,[AR] El-Heddaf-TV [DZ]
-http://iptv.journalsat.com:25461/305258085/journalsat/702
-#EXTINF:-1,[AR] DzairTV [DZ]
-http://iptv.journalsat.com:25461/305258085/journalsat/703
-#EXTINF:-1,[AR] Berbere_Television [DZ]
-http://iptv.journalsat.com:25461/305258085/journalsat/704
-#EXTINF:-1,[AR] ELBILAD [DZ]
-http://iptv.journalsat.com:25461/305258085/journalsat/705
-#EXTINF:-1,[AR] Bahia TV [DZ]
-http://iptv.journalsat.com:25461/305258085/journalsat/706
-#EXTINF:-1,[AR] ALGERIE-6 [DZ]
-http://iptv.journalsat.com:25461/305258085/journalsat/707
-#EXTINF:-1,ssc1 hd
-http://iptv.journalsat.com:25461/305258085/journalsat/766
-#EXTINF:-1,ssc2 fhd
-http://iptv.journalsat.com:25461/305258085/journalsat/767
-#EXTINF:-1,ssc3 hd
-http://iptv.journalsat.com:25461/305258085/journalsat/768
-#EXTINF:-1,ssc4 hd
-http://iptv.journalsat.com:25461/305258085/journalsat/769
-#EXTINF:-1,ssc5 hd
-http://iptv.journalsat.com:25461/305258085/journalsat/770
-#EXTINF:-1,ssc6 hd
-http://iptv.journalsat.com:25461/305258085/journalsat/771
-#EXTINF:-1,ssc7 hd
-http://iptv.journalsat.com:25461/305258085/journalsat/772
 
-#EXTINF:-1,BEIN SPORTS MAX 1 4K 
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/120006
-#EXTINF:-1,BEIN SPORTS MAX 2 4K 
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/120005
-#EXTINF:-1,BEIN SPORTS MAX 1 4K 
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/120810
-#EXTINF:-1,BEIN SPORTS MAX 2 4K 
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/120809
+#EXTINF:-1,kimoExtra
+http://line.hi-live.me/ee99385295/1c6d465d59/554024
+#EXTINF:-1,👈Groupe👉:IPTV FOR FREE..[by KIMO]
+http://line.hi-live.me/ee99385295/1c6d465d59/543574
 
-#EXTINF:-1,Bein Sport Max 1 4K
-http://new-pro.tv:8080/4474494445842022/Nadim2022/290286
-#EXTINF:-1,Bein Sport Max 2 4K
-http://new-pro.tv:8080/4474494445842022/Nadim2022/290287
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",##### SPORTS HIGHT QUALITY FHD #####
+http://line.hi-live.me/ee99385295/1c6d465d59/627493
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - AMAZON PRIME 1 FHD [LIVE-EVENT]
+http://line.hi-live.me/ee99385295/1c6d465d59/605978
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - AMAZON PRIME 2 FHD [LIVE-EVENT]
+http://line.hi-live.me/ee99385295/1c6d465d59/605977
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - AMAZON PRIME 3 FHD [LIVE-EVENT]
+http://line.hi-live.me/ee99385295/1c6d465d59/605976
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - AMAZON PRIME 4 FHD [LIVE-EVENT]
+http://line.hi-live.me/ee99385295/1c6d465d59/605975
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - AMAZON PRIME 5 FHD [LIVE-EVENT]
+http://line.hi-live.me/ee99385295/1c6d465d59/605974
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - AMAZON PRIME 6 FHD [LIVE-EVENT]
+http://line.hi-live.me/ee99385295/1c6d465d59/605973
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - AMAZON PRIME 7 FHD [LIVE-EVENT]
+http://line.hi-live.me/ee99385295/1c6d465d59/605972
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - AMAZON PRIME 8 FHD [LIVE-EVENT]
+http://line.hi-live.me/ee99385295/1c6d465d59/605971
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - CANAl+ SPORT LDC UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/629542
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - CANAl+ SPORT LDC HD
+http://line.hi-live.me/ee99385295/1c6d465d59/629541
+#EXTINF:0 tvg-id="CANALplusSPORT.fr" group-title="|EU| FRANCE SPORTS",FR - CANAL+ SPORT FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/554013
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - CANAL+ PL FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/554015
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - CANAL+ TOP FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/554014
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - CANAL+ FORMULA1 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/640337
+#EXTINF:0 tvg-id="Infosport.fr" group-title="|EU| FRANCE SPORTS",FR - INFOSPORT+ FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/554018
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - FOOT 24/24 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/554019
+#EXTINF:0 tvg-id="beINSport1.fr" group-title="|EU| FRANCE SPORTS",FR - BEIN SPORTS 1 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/554021
+#EXTINF:0 tvg-id="beINSport2.fr" group-title="|EU| FRANCE SPORTS",FR - BEIN SPORTS 2 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/554022
+#EXTINF:0 tvg-id="beINSport3.fr" group-title="|EU| FRANCE SPORTS",FR - BEIN SPORTS 3 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/554023
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - RMC SPORT 1 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/554024
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - RMC SPORT 1 FHD •
+http://line.hi-live.me/ee99385295/1c6d465d59/543386
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - RMC SPORT 2 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/554025
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - RMC SPORT 3 LIVE FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/543390
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - RMC SPORT 4 LIVE FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/543392
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - BEIN SPORTS 1 UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/543394
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - BEIN SPORTS 2 UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/543396
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - BEIN SPORTS 3 UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/543398
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - RMC SPORT LIVE 5 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/543430
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - RMC SPORT LIVE 6 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/543431
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - RMC SPORT LIVE 7 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/543432
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - RMC SPORT LIVE 8 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/543433
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - BEIN SPORTS MAX 4 UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/548746
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - BEIN SPORTS MAX 5 UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/548747
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - BEIN SPORTS MAX 6 UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/548748
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - BEIN SPORTS MAX 7 UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/548749
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - BEIN SPORTS MAX 8 UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/548750
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - BEIN SPORTS MAX 9 UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/548751
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - BEIN SPORTS MAX 10 UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/548745
+#EXTINF:0 tvg-id="Eurosport1.fr" group-title="|EU| FRANCE SPORTS",FR - EUROSPORT 1 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/554026
+#EXTINF:0 tvg-id="Eurosport2.fr" group-title="|EU| FRANCE SPORTS",FR - EUROSPORT 2 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/554027
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - EUROSPORT 360 1 UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/543422
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - EUROSPORT 360 2 UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/543423
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - EUROSPORT 360 3 UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/543424
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - EUROSPORT 360 4 UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/543425
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - EUROSPORT 360 5 UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/543426
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - EUROSPORT 360 6 UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/543427
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - EUROSPORT 360 7 UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/543428
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - EUROSPORT 360 8 UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/543429
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - MULTISPORTS 1 UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/543442
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - MULTISPORTS 2 UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/543443
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - MULTISPORTS 3 UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/543444
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - MULTISPORTS 4 UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/543445
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - MULTISPORTS 5 UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/543446
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - MULTISPORTS 6 UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/543447
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - TRACE SPORTS UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/543412
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - OL TV UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/543410
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - EQUIDIA UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/543404
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - EQUIPE 21 UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/543400
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - AUTOMOTO FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/554020
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - GOLF CHANNEL UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/543419
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - GOLF+ UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/543421
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",##### SPORTS HIGHT QUALITY HEVC #####
+http://line.hi-live.me/ee99385295/1c6d465d59/627644
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",##### SPORTS LOW QUALITY SD #####
+http://line.hi-live.me/ee99385295/1c6d465d59/543379
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - PRIME 1 SD [LIVE-EVENT]
+http://line.hi-live.me/ee99385295/1c6d465d59/619394
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - PRIME 1 UHD [LIVE-EVENT]
+http://line.hi-live.me/ee99385295/1c6d465d59/603210
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - PRIME 2 UHD [LIVE-EVENT]
+http://line.hi-live.me/ee99385295/1c6d465d59/603209
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - PRIME 3 UHD [LIVE-EVENT]
+http://line.hi-live.me/ee99385295/1c6d465d59/603208
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - PRIME 4 UHD [LIVE-EVENT]
+http://line.hi-live.me/ee99385295/1c6d465d59/603207
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - PRIME 5 UHD [LIVE-EVENT]
+http://line.hi-live.me/ee99385295/1c6d465d59/603206
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - PRIME 6 UHD [LIVE-EVENT]
+http://line.hi-live.me/ee99385295/1c6d465d59/603205
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - PRIME 7 UHD [LIVE-EVENT]
+http://line.hi-live.me/ee99385295/1c6d465d59/603204
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - PRIME 8 UHD [LIVE-EVENT]
+http://line.hi-live.me/ee99385295/1c6d465d59/603203
+#EXTINF:0 tvg-id="RMCSport1.fr" group-title="|EU| FRANCE SPORTS",FR - RMC SPORT 1
+http://line.hi-live.me/ee99385295/1c6d465d59/543387
+#EXTINF:0 tvg-id="RMCSport2.fr" group-title="|EU| FRANCE SPORTS",FR - RMC SPORT 2
+http://line.hi-live.me/ee99385295/1c6d465d59/543389
+#EXTINF:0 tvg-id="CANALplusSPORT.fr" group-title="|EU| FRANCE SPORTS",FR - CANAL+ SPORT
+http://line.hi-live.me/ee99385295/1c6d465d59/543383
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - CANAL+ PL
+http://line.hi-live.me/ee99385295/1c6d465d59/543385
+#EXTINF:0 tvg-id="beINSport1.fr" group-title="|EU| FRANCE SPORTS",FR - BEIN SPORTS 1
+http://line.hi-live.me/ee99385295/1c6d465d59/543395
+#EXTINF:0 tvg-id="beINSport2.fr" group-title="|EU| FRANCE SPORTS",FR - BEIN SPORTS 2
+http://line.hi-live.me/ee99385295/1c6d465d59/543397
+#EXTINF:0 tvg-id="beINSport3.fr" group-title="|EU| FRANCE SPORTS",FR - BEIN SPORTS 3
+http://line.hi-live.me/ee99385295/1c6d465d59/543399
+#EXTINF:0 tvg-id="Eurosport1.fr" group-title="|EU| FRANCE SPORTS",FR - EUROSPORT 1
+http://line.hi-live.me/ee99385295/1c6d465d59/543414
+#EXTINF:0 tvg-id="Eurosport2.fr" group-title="|EU| FRANCE SPORTS",FR - EUROSPORT 2
+http://line.hi-live.me/ee99385295/1c6d465d59/543416
+#EXTINF:0 tvg-id="EquipeTV.fr" group-title="|EU| FRANCE SPORTS",FR - EQUIPE 21
+http://line.hi-live.me/ee99385295/1c6d465d59/543401
+#EXTINF:0 tvg-id="Infosport.fr" group-title="|EU| FRANCE SPORTS",FR - INFOSPORT
+http://line.hi-live.me/ee99385295/1c6d465d59/543409
+#EXTINF:0 tvg-id="Foot24.fr" group-title="|EU| FRANCE SPORTS",FR - FOOT 24/24
+http://line.hi-live.me/ee99385295/1c6d465d59/543407
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - AUTOMOTO
+http://line.hi-live.me/ee99385295/1c6d465d59/543403
+#EXTINF:0 tvg-id="EquidiaLive.fr" group-title="|EU| FRANCE SPORTS",FR - EQUIDIA
+http://line.hi-live.me/ee99385295/1c6d465d59/543405
+#EXTINF:0 tvg-id="OLTV.fr" group-title="|EU| FRANCE SPORTS",FR - OL TV
+http://line.hi-live.me/ee99385295/1c6d465d59/543411
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - CANAL+ MOTOGP FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/554016
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - CANAL+ LIGUE 1 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/554017
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - CANAL+ TOP UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/543380
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - CANAL+ TOP
+http://line.hi-live.me/ee99385295/1c6d465d59/543381
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - CANAL+ SPORT UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/543382
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - CANAL+ PL UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/543384
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - RMC SPORT 2 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/543388
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - AUTOMOTO UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/543402
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - FOOT 24/24 UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/543406
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - INFOSPORT UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/543408
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - EUROSPORT 1 UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/543413
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - EUROSPORT 2 UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/543415
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - SPORTS EN FRANCE UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/543417
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - SPORTS EN FRANCE
+http://line.hi-live.me/ee99385295/1c6d465d59/543418
+#EXTINF:0 tvg-id="Golf.fr" group-title="|EU| FRANCE SPORTS",FR - GOLF CHANNEL
+http://line.hi-live.me/ee99385295/1c6d465d59/543420
 
-####          BEIN FHD            ####
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",##### BEIN SPORTS HD #####
+http://line.hi-live.me/ee99385295/1c6d465d59/550444
+#EXTINF:0 tvg-id="beINSPORTS.us" group-title="|AR| BEIN SPORTS",BEIN SPORT HD
+http://line.hi-live.me/ee99385295/1c6d465d59/517858
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",BEIN SPORT NEWS HD
+http://line.hi-live.me/ee99385295/1c6d465d59/517859
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",BEIN SPORTS 1 PREMIUM HD
+http://line.hi-live.me/ee99385295/1c6d465d59/550443
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",BEIN SPORTS 2 PREMIUM HD
+http://line.hi-live.me/ee99385295/1c6d465d59/550442
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",BEIN SPORTS 3 PREMIUM HD
+http://line.hi-live.me/ee99385295/1c6d465d59/550441
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="|AR| BEIN SPORTS",BEIN SPORTS 1 HD
+http://line.hi-live.me/ee99385295/1c6d465d59/550440
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="|AR| BEIN SPORTS",BEIN SPORTS 2 HD
+http://line.hi-live.me/ee99385295/1c6d465d59/550439
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="|AR| BEIN SPORTS",BEIN SPORTS 3 HD
+http://line.hi-live.me/ee99385295/1c6d465d59/550438
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="|AR| BEIN SPORTS",BEIN SPORTS 4 HD
+http://line.hi-live.me/ee99385295/1c6d465d59/550437
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="|AR| BEIN SPORTS",BEIN SPORTS 5 HD
+http://line.hi-live.me/ee99385295/1c6d465d59/550436
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="|AR| BEIN SPORTS",BEIN SPORTS 6 HD
+http://line.hi-live.me/ee99385295/1c6d465d59/550435
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="|AR| BEIN SPORTS",BEIN SPORTS 7 HD
+http://line.hi-live.me/ee99385295/1c6d465d59/550434
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",BEIN SPORTS XTRA 1 HD
+http://line.hi-live.me/ee99385295/1c6d465d59/603954
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",BEIN SPORTS XTRA 2 HD
+http://line.hi-live.me/ee99385295/1c6d465d59/603952
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",BEIN SPORT 1 HD EN
+http://line.hi-live.me/ee99385295/1c6d465d59/550433
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",BEIN SPORT 2 HD EN
+http://line.hi-live.me/ee99385295/1c6d465d59/550432
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",BEIN SPORT 3 HD EN
+http://line.hi-live.me/ee99385295/1c6d465d59/550431
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",BEIN SPORTS FRENCH 1 HD
+http://line.hi-live.me/ee99385295/1c6d465d59/603950
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",BEIN SPORTS FRENCH 2 HD
+http://line.hi-live.me/ee99385295/1c6d465d59/603948
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",ITALIAN LEAGUE 1 HD [LIVE-EVENT]
+http://line.hi-live.me/ee99385295/1c6d465d59/604046
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",ITALIAN LEAGUE 2 HD [LIVE-EVENT]
+http://line.hi-live.me/ee99385295/1c6d465d59/613015
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",ITALIAN LEAGUE 3 HD [LIVE-EVENT]
+http://line.hi-live.me/ee99385295/1c6d465d59/613014
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",ITALIAN LEAGUE 4 HD [LIVE-EVENT]
+http://line.hi-live.me/ee99385295/1c6d465d59/613013
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",ITALIAN LEAGUE 5 HD [LIVE-EVENT]
+http://line.hi-live.me/ee99385295/1c6d465d59/613012
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",### BEIN SPORTS SD ###
+http://line.hi-live.me/ee99385295/1c6d465d59/559749
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",BEIN PREMIUM 1
+http://line.hi-live.me/ee99385295/1c6d465d59/559748
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",BEIN PREMIUM 2
+http://line.hi-live.me/ee99385295/1c6d465d59/559747
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",BEIN PREMIUM 3
+http://line.hi-live.me/ee99385295/1c6d465d59/559746
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="|AR| BEIN SPORTS",BEIN SPORT 1
+http://line.hi-live.me/ee99385295/1c6d465d59/559745
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="|AR| BEIN SPORTS",BEIN SPORT 2
+http://line.hi-live.me/ee99385295/1c6d465d59/559744
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="|AR| BEIN SPORTS",BEIN SPORT 3
+http://line.hi-live.me/ee99385295/1c6d465d59/559743
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="|AR| BEIN SPORTS",BEIN SPORT 4
+http://line.hi-live.me/ee99385295/1c6d465d59/559742
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="|AR| BEIN SPORTS",BEIN SPORT 5
+http://line.hi-live.me/ee99385295/1c6d465d59/559741
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="|AR| BEIN SPORTS",BEIN SPORT 6
+http://line.hi-live.me/ee99385295/1c6d465d59/559740
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="|AR| BEIN SPORTS",BEIN SPORT 7
+http://line.hi-live.me/ee99385295/1c6d465d59/559739
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",BEIN SPORT XTRA 1
+http://line.hi-live.me/ee99385295/1c6d465d59/603947
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",BEIN SPORT XTRA 2
+http://line.hi-live.me/ee99385295/1c6d465d59/603946
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",BEIN SPORT 1 ENGLISH
+http://line.hi-live.me/ee99385295/1c6d465d59/559738
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",BEIN SPORT 2 ENGLISH
+http://line.hi-live.me/ee99385295/1c6d465d59/559737
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",BEIN SPORT 3 ENGLISH
+http://line.hi-live.me/ee99385295/1c6d465d59/559736
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",BEIN SPORT FRENCH 1
+http://line.hi-live.me/ee99385295/1c6d465d59/603945
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",BEIN SPORT FRENCH 2
+http://line.hi-live.me/ee99385295/1c6d465d59/603944
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",##### BEIN SPORTS FHD #####
+http://line.hi-live.me/ee99385295/1c6d465d59/550430
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",BEIN SPORTS 1 PREMIUM FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/550429
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",BEIN SPORTS 2 PREMIUM FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/550428
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",BEIN SPORTS 3 PREMIUM FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/550427
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="|AR| BEIN SPORTS",BEIN SPORTS 1 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/550426
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="|AR| BEIN SPORTS",BEIN SPORTS 2 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/550425
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="|AR| BEIN SPORTS",BEIN SPORTS 3 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/550424
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="|AR| BEIN SPORTS",BEIN SPORTS 4 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/550423
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="|AR| BEIN SPORTS",BEIN SPORTS 5 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/550422
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="|AR| BEIN SPORTS",BEIN SPORTS 6 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/550421
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="|AR| BEIN SPORTS",BEIN SPORTS 7 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/550420
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",BEIN SPORTS XTRA 1 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/603955
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",BEIN SPORTS XTRA 2 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/603953
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",BEIN SPORTS 1 EN FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/550419
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",BEIN SPORTS 2 EN FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/550418
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",BEIN SPORTS 3 EN FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/550417
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",BEIN SPORTS FRENCH 1 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/603951
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",BEIN SPORTS FRENCH 2 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/603949
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",AR - AL KASS 1 HD
+http://line.hi-live.me/ee99385295/1c6d465d59/584499
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",AR - AL KASS 2 HD
+http://line.hi-live.me/ee99385295/1c6d465d59/584497
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",AR - AL KASS 3 HD
+http://line.hi-live.me/ee99385295/1c6d465d59/631033
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",AR - AL KASS 3 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/631032
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",AR - AL KASS 4 HD
+http://line.hi-live.me/ee99385295/1c6d465d59/584495
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",AR - AL KASS 5 HD
+http://line.hi-live.me/ee99385295/1c6d465d59/584493
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",AR - AL KASS 6 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/631034
 
-#EXTINF:-1,BEIN SPORTS MAX 1 FHD
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/120808
-#EXTINF:-1,BEIN SPORTS MAX 2 FHD
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/120807
-#EXTINF:-1,BEIN SPORTS MAX 1 FHD
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/120674
-#EXTINF:-1,BEIN SPORTS MAX 2 FHD
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/120675
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",### BEIN SPORTS HEVC ###
+http://line.hi-live.me/ee99385295/1c6d465d59/594520
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN PREMIUM 1 HEVC
+http://line.hi-live.me/ee99385295/1c6d465d59/594519
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN PREMIUM 2 HEVC
+http://line.hi-live.me/ee99385295/1c6d465d59/594518
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN PREMIUM 3 HEVC
+http://line.hi-live.me/ee99385295/1c6d465d59/594517
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 1 HEVC
+http://line.hi-live.me/ee99385295/1c6d465d59/594516
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 2 HEVC
+http://line.hi-live.me/ee99385295/1c6d465d59/594515
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 3 HEVC
+http://line.hi-live.me/ee99385295/1c6d465d59/594514
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 4 HEVC
+http://line.hi-live.me/ee99385295/1c6d465d59/594513
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 5 HEVC
+http://line.hi-live.me/ee99385295/1c6d465d59/594512
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 6 HEVC
+http://line.hi-live.me/ee99385295/1c6d465d59/594511
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 7 HEVC
+http://line.hi-live.me/ee99385295/1c6d465d59/594510
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 1 EN HEVC
+http://line.hi-live.me/ee99385295/1c6d465d59/594509
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 2 EN HEVC
+http://line.hi-live.me/ee99385295/1c6d465d59/594508
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 3 EN HEVC
+http://line.hi-live.me/ee99385295/1c6d465d59/594507
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",### BEIN SPORTS ULTRA FHD ###
+http://line.hi-live.me/ee99385295/1c6d465d59/550416
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 1 PREMIUM ULTRA FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/550415
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 2 PREMIUM ULTRA FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/550414
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 3 PREMIUM ULTRA FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/550413
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 1 ULTRA FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/550412
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 2 ULTRA FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/550411
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 3 ULTRA FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/550410
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 4 ULTRA FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/550409
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 5 ULTRA FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/550408
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 6 ULTRA FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/550407
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 7 ULTRA FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/550406
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 1 EN ULTRA FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/550405
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 2 EN ULTRA FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/550404
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 3 EN ULTRA FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/550403
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS NEWS ULTRA FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/550402
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS GLOBAL ULTRA FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/550401
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",### BEIN SPORTS 4K ###
+http://line.hi-live.me/ee99385295/1c6d465d59/653635
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS NEWS 4K
+http://line.hi-live.me/ee99385295/1c6d465d59/653634
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS GLOBAL 4K
+http://line.hi-live.me/ee99385295/1c6d465d59/653633
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 1 8K
+http://line.hi-live.me/ee99385295/1c6d465d59/653632
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 1 PREMIUM 8K
+http://line.hi-live.me/ee99385295/1c6d465d59/653631
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 3 8K
+http://line.hi-live.me/ee99385295/1c6d465d59/653630
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 1 PREMIUM 4K
+http://line.hi-live.me/ee99385295/1c6d465d59/653629
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 2 PREMIUM 4K
+http://line.hi-live.me/ee99385295/1c6d465d59/653628
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 3 PREMIUM 4K
+http://line.hi-live.me/ee99385295/1c6d465d59/653627
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 1 4K
+http://line.hi-live.me/ee99385295/1c6d465d59/653626
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 2 4K
+http://line.hi-live.me/ee99385295/1c6d465d59/653625
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 3 4K
+http://line.hi-live.me/ee99385295/1c6d465d59/653624
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 4 4K
+http://line.hi-live.me/ee99385295/1c6d465d59/653623
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 5 4K
+http://line.hi-live.me/ee99385295/1c6d465d59/653622
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 6 4K
+http://line.hi-live.me/ee99385295/1c6d465d59/653621
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 7 4K
+http://line.hi-live.me/ee99385295/1c6d465d59/653620
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS XTRA 1 4K
+http://line.hi-live.me/ee99385295/1c6d465d59/653619
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS XTRA 2 4K
+http://line.hi-live.me/ee99385295/1c6d465d59/653618
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 1 EN 4K
+http://line.hi-live.me/ee99385295/1c6d465d59/653617
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 2 EN 4K
+http://line.hi-live.me/ee99385295/1c6d465d59/653616
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 3 EN 4K
+http://line.hi-live.me/ee99385295/1c6d465d59/653615
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS FRENCH 1 4K
+http://line.hi-live.me/ee99385295/1c6d465d59/653614
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS FRENCH 2 4K
+http://line.hi-live.me/ee99385295/1c6d465d59/653613
 
-#EXTINF:-1,Bein Sport Max 1 FHD
-http://new-pro.tv:8080/4474494445842022/Nadim2022/290288
-#EXTINF:-1,Bein Sport Max 2 FHD
-http://new-pro.tv:8080/4474494445842022/Nadim2022/290289
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",### AR - BEIN ENTERTAINMENT HD ###
+http://line.hi-live.me/ee99385295/1c6d465d59/533073
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",AR - BEIN MOVIES HD1
+http://line.hi-live.me/ee99385295/1c6d465d59/533072
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",AR - BEIN MOVIES HD2
+http://line.hi-live.me/ee99385295/1c6d465d59/533071
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",AR - BEIN MOVIES HD3
+http://line.hi-live.me/ee99385295/1c6d465d59/533070
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",AR - BEIN MOVIES HD4
+http://line.hi-live.me/ee99385295/1c6d465d59/533069
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",AR - BEIN SERIES HD1
+http://line.hi-live.me/ee99385295/1c6d465d59/533068
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",AR - BEIN SERIES HD2
+http://line.hi-live.me/ee99385295/1c6d465d59/533067
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",AR - BEIN DRAMA HD1
+http://line.hi-live.me/ee99385295/1c6d465d59/533066
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",AR - BEIN FOX MOVIES HD
+http://line.hi-live.me/ee99385295/1c6d465d59/533065
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",AR - BEIN FOX ACTION MOVIES HD
+http://line.hi-live.me/ee99385295/1c6d465d59/533064
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",AR - BEIN GOURMET HD
+http://line.hi-live.me/ee99385295/1c6d465d59/533063
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",AR - BEIN JEEM HD
+http://line.hi-live.me/ee99385295/1c6d465d59/533062
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",AR - BEIN BARAEM HD
+http://line.hi-live.me/ee99385295/1c6d465d59/533061
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",AR - BEIN FATAFEAT
+http://line.hi-live.me/ee99385295/1c6d465d59/533060
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",AR - BEIN BABY HD
+http://line.hi-live.me/ee99385295/1c6d465d59/533059
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",AR - BEIN FOX LIFE HD
+http://line.hi-live.me/ee99385295/1c6d465d59/533058
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",AR - BEIN FOX REWAYAT HD
+http://line.hi-live.me/ee99385295/1c6d465d59/533057
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",AR - BEIN FOX CRIME HD
+http://line.hi-live.me/ee99385295/1c6d465d59/533056
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",AR - BEIN NAT GEO HD
+http://line.hi-live.me/ee99385295/1c6d465d59/533055
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",AR - BEIN NAT GEO WILD HD
+http://line.hi-live.me/ee99385295/1c6d465d59/533054
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",AR - BEIN NAT GEO PEOPLE HD
+http://line.hi-live.me/ee99385295/1c6d465d59/533053
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",AR - BEIN AMC HD
+http://line.hi-live.me/ee99385295/1c6d465d59/533052
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",AR - BEIN HGTV HD
+http://line.hi-live.me/ee99385295/1c6d465d59/533051
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",AR - BEIN BE JUNIOR
+http://line.hi-live.me/ee99385295/1c6d465d59/533050
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",AR - BEIN STAR WORLD HD
+http://line.hi-live.me/ee99385295/1c6d465d59/533049
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",AR - BEIN STAR MOVIES HD
+http://line.hi-live.me/ee99385295/1c6d465d59/533048
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",AR - BEIN TRAVEL HD
+http://line.hi-live.me/ee99385295/1c6d465d59/533047
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",AR - BEIN OUTDOOR HD
+http://line.hi-live.me/ee99385295/1c6d465d59/533046
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",AR - BEIN FOOD NETWORK HD
+http://line.hi-live.me/ee99385295/1c6d465d59/533045
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",AR - BEIN BBC EARTH HD
+http://line.hi-live.me/ee99385295/1c6d465d59/533044
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",### AR - BEIN ENTERTAINMENT 4K ###
+http://line.hi-live.me/ee99385295/1c6d465d59/533043
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",AR - BEIN MOVIES 4K 1
+http://line.hi-live.me/ee99385295/1c6d465d59/533042
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",AR - BEIN MOVIES 4K 2
+http://line.hi-live.me/ee99385295/1c6d465d59/533041
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",AR - BEIN MOVIES 4K 3
+http://line.hi-live.me/ee99385295/1c6d465d59/533040
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",AR - BEIN MOVIES 4K 4
+http://line.hi-live.me/ee99385295/1c6d465d59/533039
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",AR - BEIN SERIES 4K 1
+http://line.hi-live.me/ee99385295/1c6d465d59/533038
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",AR - BEIN SERIES 4K 2
+http://line.hi-live.me/ee99385295/1c6d465d59/533037
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",AR - BEIN DRAMA 4K
+http://line.hi-live.me/ee99385295/1c6d465d59/533036
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",AR - BEIN FOX MOVIES 4K
+http://line.hi-live.me/ee99385295/1c6d465d59/533035
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",AR - BEIN FOX MOV ACTION 4K
+http://line.hi-live.me/ee99385295/1c6d465d59/533034
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",AR - BEIN FOX LIFE 4K
+http://line.hi-live.me/ee99385295/1c6d465d59/533033
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",AR - BEIN FOX CRIME 4K
+http://line.hi-live.me/ee99385295/1c6d465d59/533032
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",AR - BEIN FOX REWAYAT 4K
+http://line.hi-live.me/ee99385295/1c6d465d59/533031
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",AR - BEIN BBC EARTH 4K
+http://line.hi-live.me/ee99385295/1c6d465d59/533030
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",AR - BEIN SPARE 4K
+http://line.hi-live.me/ee99385295/1c6d465d59/533029
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",AR - BEIN GORMENT 4K
+http://line.hi-live.me/ee99385295/1c6d465d59/533028
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",AR - BEIN FATAFEAT 4K
+http://line.hi-live.me/ee99385295/1c6d465d59/533027
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",AR - BEIN BARAEAM 4K
+http://line.hi-live.me/ee99385295/1c6d465d59/533026
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",AR - BEIN JEEM 4K
+http://line.hi-live.me/ee99385295/1c6d465d59/533025
 
-####          BEIN HD             ####
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN PREMIUM PLAY",###### AR - BEIN OD #######
+http://line.hi-live.me/ee99385295/1c6d465d59/594506
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN OD 1 MOVIES UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/594505
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN OD 2 MOVIES UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/594504
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN OD 3 MOVIES UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/594503
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN OD 4 MOVIES UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/594502
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN OD 5 MOVIES UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/594501
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN OD 6 MOVIES UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/594500
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN OD 7 MOVIES UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/594499
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN OD 8 MOVIES UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/594498
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN OD 1 KIDS UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/594497
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN OD 2 KIDS UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/594496
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN OD 3 KIDS UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/594495
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN BARAM UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/594494
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN BARAM HEVC
+http://line.hi-live.me/ee99385295/1c6d465d59/594493
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN BARAM HD
+http://line.hi-live.me/ee99385295/1c6d465d59/594492
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN BARAM SD
+http://line.hi-live.me/ee99385295/1c6d465d59/594491
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN BOX OFFICE 1 UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/594489
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN BOX OFFICE 1 HD
+http://line.hi-live.me/ee99385295/1c6d465d59/594488
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN BOX OFFICE 2 UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/594486
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN BOX OFFICE 2 HD
+http://line.hi-live.me/ee99385295/1c6d465d59/594485
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN MOVIES 1 UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/594484
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN MOVIES 1 HEVC
+http://line.hi-live.me/ee99385295/1c6d465d59/594483
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN MOVIES 1 HD
+http://line.hi-live.me/ee99385295/1c6d465d59/594482
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN MOVIES 1 SD
+http://line.hi-live.me/ee99385295/1c6d465d59/594481
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN MOVIES 2 UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/594480
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN MOVIES 2 HEVC
+http://line.hi-live.me/ee99385295/1c6d465d59/594479
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN MOVIES 2 HD
+http://line.hi-live.me/ee99385295/1c6d465d59/594478
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN MOVIES 2 SD
+http://line.hi-live.me/ee99385295/1c6d465d59/594477
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN MOVIES 3 UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/594476
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN MOVIES 3 HEVC
+http://line.hi-live.me/ee99385295/1c6d465d59/594475
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN MOVIES 3 HD
+http://line.hi-live.me/ee99385295/1c6d465d59/594474
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN MOVIES 3 SD
+http://line.hi-live.me/ee99385295/1c6d465d59/594473
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN SERIES 1 UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/594472
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN SERIES 1 HEVC
+http://line.hi-live.me/ee99385295/1c6d465d59/594471
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN SERIES 1 HD
+http://line.hi-live.me/ee99385295/1c6d465d59/594470
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN SERIES 1 SD
+http://line.hi-live.me/ee99385295/1c6d465d59/594469
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN DRAMA 1 UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/594468
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN DRAMA 1 HEVC
+http://line.hi-live.me/ee99385295/1c6d465d59/594467
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN DRAMA 1 HD
+http://line.hi-live.me/ee99385295/1c6d465d59/594466
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN DRAMA 1 SD
+http://line.hi-live.me/ee99385295/1c6d465d59/594465
 
-#EXTINF:-1,beIN SPORTS MAX HD1
-http://yassooo.com:8080/Manaf/Manaf123/120012
-#EXTINF:-1,beIN SPORTS MAX HD2
-http://yassooo.com:8080/Manaf/Manaf123/120011
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",###### GOBX - GOBX GROUP ######
+http://line.hi-live.me/ee99385295/1c6d465d59/602746
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - MBC 1 UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/602745
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - MBC 1 HD
+http://line.hi-live.me/ee99385295/1c6d465d59/602744
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - MBC 2 UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/602743
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - MBC 2 HD
+http://line.hi-live.me/ee99385295/1c6d465d59/602742
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - MBC 3 UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/602741
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - MBC 3 HD
+http://line.hi-live.me/ee99385295/1c6d465d59/602740
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - MBC 4 UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/602739
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - MBC 4 HD
+http://line.hi-live.me/ee99385295/1c6d465d59/602738
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - MBC 5 UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/602737
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - MBC 5 HD
+http://line.hi-live.me/ee99385295/1c6d465d59/602736
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - MBC DRAMA UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/602735
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - MBC DRAMA HD
+http://line.hi-live.me/ee99385295/1c6d465d59/602734
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - MBC ACTION UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/602733
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - MBC ACTION HD
+http://line.hi-live.me/ee99385295/1c6d465d59/602732
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - MBC MASR 1 UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/602731
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - MBC MASR 1 HD
+http://line.hi-live.me/ee99385295/1c6d465d59/602730
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - MBC MASR 2 UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/602729
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - MBC MASR 2 HD
+http://line.hi-live.me/ee99385295/1c6d465d59/602728
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - MBC IRAQ UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/602727
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - MBC IRAQ HD
+http://line.hi-live.me/ee99385295/1c6d465d59/602726
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - MBC DRAMA+ UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/602725
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - MBC DRAMA+ HD
+http://line.hi-live.me/ee99385295/1c6d465d59/602724
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - MBC VARIETY UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/602723
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - MBC VARIETY HD
+http://line.hi-live.me/ee99385295/1c6d465d59/602722
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - MBC MAX HD
+http://line.hi-live.me/ee99385295/1c6d465d59/602721
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - TIJI HD
+http://line.hi-live.me/ee99385295/1c6d465d59/602720
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - PLANET EARTH HD
+http://line.hi-live.me/ee99385295/1c6d465d59/602719
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - REEL PX ACTION HD
+http://line.hi-live.me/ee99385295/1c6d465d59/602718
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - REEL PX CINEMA HD
+http://line.hi-live.me/ee99385295/1c6d465d59/602717
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - REEL PX FAMILY HD
+http://line.hi-live.me/ee99385295/1c6d465d59/602716
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - REEL PX UNLIMITED HD
+http://line.hi-live.me/ee99385295/1c6d465d59/602715
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - REEL PX COMEDY HD
+http://line.hi-live.me/ee99385295/1c6d465d59/602714
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - DOCUMENTARY BIL ARABIE HD
+http://line.hi-live.me/ee99385295/1c6d465d59/602713
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - FIX FOXI HD
+http://line.hi-live.me/ee99385295/1c6d465d59/602712
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - LAAB WA JAD HD
+http://line.hi-live.me/ee99385295/1c6d465d59/602711
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - FILMBOX ARTHOUSE HD
+http://line.hi-live.me/ee99385295/1c6d465d59/602710
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - FILMBOX HD
+http://line.hi-live.me/ee99385295/1c6d465d59/602709
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - WOMAN HD
+http://line.hi-live.me/ee99385295/1c6d465d59/602708
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - STEREO HD
+http://line.hi-live.me/ee99385295/1c6d465d59/602707
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - STEREO 2 HD
+http://line.hi-live.me/ee99385295/1c6d465d59/602706
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - MOTORVISION HD
+http://line.hi-live.me/ee99385295/1c6d465d59/602705
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - DOCUBOX HD
+http://line.hi-live.me/ee99385295/1c6d465d59/602704
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - FAST-FUN HD
+http://line.hi-live.me/ee99385295/1c6d465d59/602703
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - AWE HD
+http://line.hi-live.me/ee99385295/1c6d465d59/602702
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - ZOOMOO HD
+http://line.hi-live.me/ee99385295/1c6d465d59/602701
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - FIGHT BOX HD
+http://line.hi-live.me/ee99385295/1c6d465d59/602700
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - FIGHT NETWORK HD
+http://line.hi-live.me/ee99385295/1c6d465d59/602699
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - HORSE HD
+http://line.hi-live.me/ee99385295/1c6d465d59/602698
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - NAUTICAL HD
+http://line.hi-live.me/ee99385295/1c6d465d59/602697
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - CARS HD
+http://line.hi-live.me/ee99385295/1c6d465d59/602696
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - RECIPE HD
+http://line.hi-live.me/ee99385295/1c6d465d59/602695
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - TRACE SPORT STARS HD
+http://line.hi-live.me/ee99385295/1c6d465d59/602694
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - GULI BIL ARABIC HD
+http://line.hi-live.me/ee99385295/1c6d465d59/602693
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - DUCK HD
+http://line.hi-live.me/ee99385295/1c6d465d59/602692
 
-#EXTINF:-1,BEIN SPORTS MAX HD1
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/120012
-#EXTINF:-1,BEIN SPORTS MAX HD2
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/120011
-#EXTINF:-1,BEIN SPORTS MAX HD1
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/120680
-#EXTINF:-1,BEIN SPORTS MAX HD2
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/120681
-#EXTINF:-1,BEIN SPORTS MAX HD1
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/120806
-#EXTINF:-1,BEIN SPORTS MAX HD2
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/120805
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",### AR - BOX OFFICE ###
+http://line.hi-live.me/ee99385295/1c6d465d59/458290
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 1 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458291
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 2 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458292
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 3 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458293
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 4 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458294
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 5 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458295
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 6 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458296
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 7 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458297
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 8 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458298
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 9 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458299
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 10 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458300
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 11 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458301
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 12 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458302
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 13 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458303
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 14 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458304
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 15 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458305
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 16 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458306
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 17 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458307
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 18 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458308
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 19 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458309
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 20 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458310
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 21 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458311
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 22 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458312
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 23 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458313
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 24 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458314
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 25 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458315
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 26 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458316
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 27 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458317
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 28 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458318
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 29 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458319
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 30 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458320
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 31 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458321
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 32 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458322
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 33 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458323
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 34 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458324
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 35 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458325
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 36 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458326
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 37 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458327
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 38 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458328
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 39 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458329
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 40 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458330
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 41 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458331
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 42 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458332
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 43 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458333
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 44 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458334
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 45 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458335
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 46 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458336
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 47 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458337
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 48 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458338
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 49 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458339
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 50 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458340
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 51 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458341
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 52 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458342
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 53 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458343
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 54 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458344
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 55 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458345
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 56 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458346
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 57 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458347
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 58 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458348
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 59 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458349
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 60 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458350
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 61 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458351
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 62 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458352
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 63 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458353
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 64 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458354
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 65 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458355
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 66 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458356
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 67 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458357
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 68 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458358
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 69 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458359
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 70 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458360
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 71 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458361
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 72 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458362
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 73 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458363
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 74 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458364
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 75 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458365
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 76 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458366
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 77 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458367
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 78 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458368
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 79 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458369
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 80 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458370
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 81 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458371
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 82 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458372
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 83 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458373
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 84 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458374
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 85 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458375
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 86 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458376
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 87 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458377
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 88 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458378
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 89 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458379
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 90 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458380
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 91 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458381
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 92 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458382
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 93 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458383
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 94 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458384
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 95 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458385
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 96 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458386
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 97 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458387
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 98 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458388
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 99 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458389
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 100 FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/458390
 
-#EXTINF:-1,beIN SPORTS MAX HD1 
-http://195.230.23.8:25461/goldstv.com/zVSBfEVhKE/7841
-#EXTINF:-1,beIN SPORTS MAX HD2 
-http://195.230.23.8:25461/goldstv.com/zVSBfEVhKE/7842
-#EXTINF:-1,BEIN SPORTS Max HD1
-http://195.230.23.8:25461/goldstv.com/zVSBfEVhKE/7824
-#EXTINF:-1,BEIN SPORTS Max HD2
-http://195.230.23.8:25461/goldstv.com/zVSBfEVhKE/7825
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",##### ESP DEPORTES #####
+http://line.hi-live.me/ee99385295/1c6d465d59/505613
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - GOL
+http://line.hi-live.me/ee99385295/1c6d465d59/505614
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - BARCA TV
+http://line.hi-live.me/ee99385295/1c6d465d59/505615
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - R. MADRID TV
+http://line.hi-live.me/ee99385295/1c6d465d59/505616
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - M. GOLF HD
+http://line.hi-live.me/ee99385295/1c6d465d59/505617
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - M. LALIGA HD
+http://line.hi-live.me/ee99385295/1c6d465d59/505618
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - M. LALIGA FHD (1080P)
+http://line.hi-live.me/ee99385295/1c6d465d59/505620
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - M. LALIGA 1 FHD (1080)
+http://line.hi-live.me/ee99385295/1c6d465d59/505621
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - M. LALIGA 2 FHD (1080P)
+http://line.hi-live.me/ee99385295/1c6d465d59/505622
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - M. LALIGA 2 HD
+http://line.hi-live.me/ee99385295/1c6d465d59/505623
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - M. LALIGA 3 HD [LIVEEVENT]
+http://line.hi-live.me/ee99385295/1c6d465d59/505624
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - M. LA LIGA 4 HD [LIVEEVENT]
+http://line.hi-live.me/ee99385295/1c6d465d59/578232
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - M. LALIGA 5 [LIVEEVENT]
+http://line.hi-live.me/ee99385295/1c6d465d59/505625
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - M. LALIGA 6 [LIVEEVENT]
+http://line.hi-live.me/ee99385295/1c6d465d59/505626
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - M. LALIGA 7 [LIVEEVENT]
+http://line.hi-live.me/ee99385295/1c6d465d59/505627
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - M. LALIGA 8 [LIVEEVENT]
+http://line.hi-live.me/ee99385295/1c6d465d59/505628
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - M. LALIGA 9 [LIVEEVENT]
+http://line.hi-live.me/ee99385295/1c6d465d59/505629
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - M. LALIGA 10 [LIVEEVENT]
+http://line.hi-live.me/ee99385295/1c6d465d59/505630
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - M.FORMULA1 HD
+http://line.hi-live.me/ee99385295/1c6d465d59/505631
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - #VAMOS HD
+http://line.hi-live.me/ee99385295/1c6d465d59/505632
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - DAZN FORMULA1
+http://line.hi-live.me/ee99385295/1c6d465d59/554553
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - EUROSPORT 1 HD
+http://line.hi-live.me/ee99385295/1c6d465d59/505633
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - EUROSPORT 2
+http://line.hi-live.me/ee99385295/1c6d465d59/505634
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - M. DEPORTES HD
+http://line.hi-live.me/ee99385295/1c6d465d59/505635
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - M. DEPORTES1 HD
+http://line.hi-live.me/ee99385295/1c6d465d59/505636
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - M. DEPORTES2
+http://line.hi-live.me/ee99385295/1c6d465d59/505637
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - M. DEPORTES3 [LIVEEVENT]
+http://line.hi-live.me/ee99385295/1c6d465d59/505638
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - M. DEPORTES4 (LIVEEVEENT)
+http://line.hi-live.me/ee99385295/1c6d465d59/505639
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - M. DEPORTES5 (LIVEEVEENT)
+http://line.hi-live.me/ee99385295/1c6d465d59/505640
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - M. DEPORTES6 (LIVEEVEENT)
+http://line.hi-live.me/ee99385295/1c6d465d59/505641
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - M. DEPORTES7 (LIVEEVEENT)
+http://line.hi-live.me/ee99385295/1c6d465d59/505642
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - LALIGA 123 HD
+http://line.hi-live.me/ee99385295/1c6d465d59/505643
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - LALIGATV BAR HD
+http://line.hi-live.me/ee99385295/1c6d465d59/505619
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - LALIGATVBAR1 [LIVEEVENT]
+http://line.hi-live.me/ee99385295/1c6d465d59/505644
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - LALIGATVBAR2 [LIVEEVENT]
+http://line.hi-live.me/ee99385295/1c6d465d59/505645
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - LALIGATVBAR3 [LIVEEVENT]
+http://line.hi-live.me/ee99385295/1c6d465d59/505646
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - LALIGATVBAR4 [LIVEEVENT]
+http://line.hi-live.me/ee99385295/1c6d465d59/505647
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - MULTIDEPORTE
+http://line.hi-live.me/ee99385295/1c6d465d59/505648
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - M.LCAMPEONES HD
+http://line.hi-live.me/ee99385295/1c6d465d59/505650
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - M. LCAMPEONES FHD (1080)
+http://line.hi-live.me/ee99385295/1c6d465d59/556935
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - M.LCAMPEON2 [LIVEEVENT]
+http://line.hi-live.me/ee99385295/1c6d465d59/505653
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - M.LCAMPEONES 2 FHD (1080P)
+http://line.hi-live.me/ee99385295/1c6d465d59/505651
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - M.LCAMPEON1 [LIVEEVENT]
+http://line.hi-live.me/ee99385295/1c6d465d59/505652
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - M.LCAMPEON3 [LIVEEVENT]
+http://line.hi-live.me/ee99385295/1c6d465d59/505654
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - M.LCAMPEON 4 [LIVEEVENT]
+http://line.hi-live.me/ee99385295/1c6d465d59/505655
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - M.LCAMPEON 5 [LIVEEVENT]
+http://line.hi-live.me/ee99385295/1c6d465d59/505656
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - M.LCAMPEON 6 [LIVEEVENT]
+http://line.hi-live.me/ee99385295/1c6d465d59/505657
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - M.LCAMPEON 7 [LIVEEVENT]
+http://line.hi-live.me/ee99385295/1c6d465d59/505658
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - M.LCAMPEON 8 [LIVEEVENT]
+http://line.hi-live.me/ee99385295/1c6d465d59/505659
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - TELEDEPORTE
+http://line.hi-live.me/ee99385295/1c6d465d59/505660
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - TOROS HD
+http://line.hi-live.me/ee99385295/1c6d465d59/505661
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",##### ESP DAZN #####
+http://line.hi-live.me/ee99385295/1c6d465d59/505662
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - DAZN HD
+http://line.hi-live.me/ee99385295/1c6d465d59/505663
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - DAZN
+http://line.hi-live.me/ee99385295/1c6d465d59/505664
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - DAZN 1
+http://line.hi-live.me/ee99385295/1c6d465d59/505665
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - DAZN 2
+http://line.hi-live.me/ee99385295/1c6d465d59/505666
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - DAZN 3
+http://line.hi-live.me/ee99385295/1c6d465d59/505667
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - DAZN 4
+http://line.hi-live.me/ee99385295/1c6d465d59/505668
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - DAZN 5
+http://line.hi-live.me/ee99385295/1c6d465d59/505669
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - DAZN 6
+http://line.hi-live.me/ee99385295/1c6d465d59/505670
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - DAZN 7
+http://line.hi-live.me/ee99385295/1c6d465d59/505671
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - DAZN 8
+http://line.hi-live.me/ee99385295/1c6d465d59/505672
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - FOOTTERS 1 [LIVE-EVENT]
+http://line.hi-live.me/ee99385295/1c6d465d59/649926
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - FOOTTERS 2 [LIVE-EVENT]
+http://line.hi-live.me/ee99385295/1c6d465d59/649925
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - FOOTTERS 3 [LIVE-EVENT]
+http://line.hi-live.me/ee99385295/1c6d465d59/649924
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - FOOTTERS 4 [LIVE-EVENT]
+http://line.hi-live.me/ee99385295/1c6d465d59/649923
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - FOOTTERS 5 [LIVE-EVENT]
+http://line.hi-live.me/ee99385295/1c6d465d59/649922
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - FOOTTERS 6 [LIVE-EVENT]
+http://line.hi-live.me/ee99385295/1c6d465d59/649921
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - FOOTTERS 7 [LIVE-EVENT]
+http://line.hi-live.me/ee99385295/1c6d465d59/649920
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - FOOTTERS 8 [LIVE-EVENT]
+http://line.hi-live.me/ee99385295/1c6d465d59/649919
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - FOOTTERS 9 [LIVE-EVENT]
+http://line.hi-live.me/ee99385295/1c6d465d59/649918
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - FOOTTERS 10 [LIVE-EVENT]
+http://line.hi-live.me/ee99385295/1c6d465d59/649917
 
-#EXTINF:-1,Bein Sport Max 1 HD
-http://new-pro.tv:8080/4474494445842022/Nadim2022/290290
-#EXTINF:-1,Bein Sport Max 2 HD
-http://new-pro.tv:8080/4474494445842022/Nadim2022/290291
-
-####          BEIN SD             ####
-
-#EXTINF:-1,beIN SPORTS MAX 1 
-http://yassooo.com:8080/Manaf/Manaf123/120000
-#EXTINF:-1,beIN SPORTS MAX 2 
-http://yassooo.com:8080/Manaf/Manaf123/119999
-
-#EXTINF:-1,BEIN SPORTS MAX 1 
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/120000
-#EXTINF:-1,BEIN SPORTS MAX 2 
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/119999
-#EXTINF:-1,BEIN SPORTS MAX 1 
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/120678
-#EXTINF:-1,BEIN SPORTS MAX 2 
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/120679
-#EXTINF:-1,BEIN SPORTS MAX 1 
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/120804
-#EXTINF:-1,BEIN SPORTS MAX 2 
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/120803
-
-
-
-#EXTINF:-1,beIN SPORTS MAX 1 
-http://yassooo.com:8080/Manaf/Manaf123/120000
-#EXTINF:-1,beIN SPORTS MAX 2 
-http://yassooo.com:8080/Manaf/Manaf123/119999
-
-#EXTINF:-1,BEIN SPORTS MAX 1 
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/120000
-#EXTINF:-1,BEIN SPORTS MAX 2 
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/119999
-#EXTINF:-1,BEIN SPORTS MAX 1 
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/120678
-#EXTINF:-1,BEIN SPORTS MAX 2 
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/120679
-#EXTINF:-1,BEIN SPORTS MAX 1 
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/120804
-#EXTINF:-1,BEIN SPORTS MAX 2 
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/120803
-
-
-
-####            KIMO HD             ####
-
-#EXTINF:-1, KIMO SPORTS MAX HD1
-http://yazansportpro.xyz:25461/livesport_ios/livesport_android/95
-#EXTINF:-1, KIMO SPORTS MAX HD2
-http://yazansportpro.xyz:25461/livesport_ios/livesport_android/94
-
-
-#EXTINF:-1, KIMO SPORTS MAX HD1
-http://n3.anfalrou.xyz:80/live/9962564400/index.m3u8
-#EXTINF:-1, KIMO SPORTS MAX HD2
-http://n3.anfalrou.xyz:80/live/88002555210/index.m3u8
-#EXTINF:-1,KIMO SPORTS 1 Premium 
-http://174.138.184.166:25461/livesport_ios/livesport_android/13
-#EXTINF:-1,KIMO SPORT PREMIUM 2HD
-http://l3.amaniyouhra.xyz:80/live/6161949878/index.m3u8
-#EXTINF:-1,KIMO SPORT PREMIUM 3HD
-http://l3.amaniyouhra.xyz:80/live/61512788878/index.m3u8
-#EXTINF:-1,KIMO SPORTS 1HD
-http://l3.amaniyouhra.xyz:80/live/918454578001/index.m3u8
-#EXTINF:-1,KIMO SPORTS 2HD
-http://l3.amaniyouhra.xyz:80/live/69854211/index.m3u8
-#EXTINF:-1,KIMO SPORTS 3HD
-http://l3.amaniyouhra.xyz:80/live/645587700/index.m3u8
-#EXTINF:-1,beIN Sports 4 HD
-http://174.138.184.166:25461/livesport_ios/livesport_android/19
-#EXTINF:-1,KIMO SPORTS 5HD
-http://l3.amaniyouhra.xyz:80/live/610303030/index.m3u8
-#EXTINF:-1,KIMO SPORTS 6HD
-http://l3.amaniyouhra.xyz:80/live/1515000000/index.m3u8
-#EXTINF:-1,KIMO SPORTS 7HD
-http://l3.amaniyouhra.xyz:80/live/791001144/index.m3u8
- 
-####            KIMO SD             ####
-
-#EXTINF:-1,KIMO SPORTS MAX 1
-http://yazansportpro.xyz:25461/livesport_ios/livesport_android/92
-#EXTINF:-1,KIMO SPORTS MAX 2
-http://yazansportpro.xyz:25461/livesport_ios/livesport_android/93
-
-#EXTINF:-1,KIMO SPORTS MAX 1
-http://n3.anfalrou.xyz:80/live/500025550/index.m3u8
-#EXTINF:-1,KIMO SPORTS MAX 2
-http://n3.anfalrou.xyz:80/live/515140033710/index.m3u8
-
-#EXTINF:-1,KIMO SPORTS MAX 1
-http://yazansportpro.xyz:25461/livesport_ios/livesport_android/92
-#EXTINF:-1,KIMO SPORTS MAX 2
-http://yazansportpro.xyz:25461/livesport_ios/livesport_android/93
-
-#EXTINF:-1,KIMO SPORTS MAX 1
-http://l21.amaniyouhra.xyz:80/live/50002/index.m3u8
-#EXTINF:-1,KIMO SPORTS MAX 2
-http://l3.amaniyouhra.xyz:80/live/51514/index.m3u8
-#EXTINF:-1,KIMO SPORTS 1 Premium 
-http://174.138.184.166:25461/livesport_ios/livesport_android/13
-#EXTINF:-1,KIMO SPORT PREMIUM 2SD
-http://l3.amaniyouhra.xyz:80/live/794812458/index.m3u8
-#EXTINF:-1,KIMO SPORT PREMIUM 3SD
-http://l3.amaniyouhra.xyz:80/live/179885588/index.m3u8
-#EXTINF:-1,KIMO SPORTS 1SD
-http://l3.amaniyouhra.xyz:80/live/978488877005/index.m3u8
-#EXTINF:-1,KIMO SPORTS 2SD
-http://l3.amaniyouhra.xyz:80/live/10011244/index.m3u8
-#EXTINF:-1,KIMO SPORTS 3SD
-http://l3.amaniyouhra.xyz:80/live/161988840/index.m3u8
-#EXTINF:-1,beIN Sports 4 HD
-http://174.138.184.166:25461/livesport_ios/livesport_android/19
-#EXTINF:-1,KIMO SPORTS 5SD
-http://l3.amaniyouhra.xyz:80/live/115451004/index.m3u8
-#EXTINF:-1,KIMO SPORTS 6SD
-http://l3.amaniyouhra.xyz:80/live/788550011/index.m3u8
-#EXTINF:-1,KIMO SPORTS 7SD
-http://l3.amaniyouhra.xyz:80/live/100666696/index.m3u8
-
-####            SSC SPORTS         ####
-
-#EXTINF:-1,SSC5 HD
-http://yassooo.com:8080/Manaf/Manaf123/98913
-#EXTINF:-1,SSC5
-http://geo-stream.xyz:8880/live/54393917/67737458/466086.ts
-#EXTINF:-1,SSC5
-http://geo-stream.xyz:8880/live/54393917/67737458/466093.ts
-
-#EXTINF:-1,OSN Yahala
-http://yassooo.com:8080/Manaf/Manaf123/80233
-#EXTINF:-1,OSN Yahala Oula
-http://yassooo.com:8080/Manaf/Manaf123/80232
-#EXTINF:-1,OSN Yahala Cinema
-http://yassooo.com:8080/Manaf/Manaf123/80231
-#EXTINF:-1,OSN Series
-http://yassooo.com:8080/Manaf/Manaf123/80230
-#EXTINF:-1,OSN Action
-http://yassooo.com:8080/Manaf/Manaf123/80229
-#EXTINF:-1,OSN Movies
-http://yassooo.com:8080/Manaf/Manaf123/80228
-#EXTINF:-1,OSN Movies First
-http://yassooo.com:8080/Manaf/Manaf123/80227
-#EXTINF:-1,OSN Movies First +2
-http://yassooo.com:8080/Manaf/Manaf123/80226
-#EXTINF:-1,OSN Movies Disney
-http://yassooo.com:8080/Manaf/Manaf123/80225
-#EXTINF:-1,OSN Enigma
-http://yassooo.com:8080/Manaf/Manaf123/80224
-#EXTINF:-1,OSN Kids
-http://yassooo.com:8080/Manaf/Manaf123/80223
-#EXTINF:-1,OSN Series First
-http://yassooo.com:8080/Manaf/Manaf123/80222
-#EXTINF:-1,OSN Series Comedy
-http://yassooo.com:8080/Manaf/Manaf123/80221
-#EXTINF:-1,OSN Star Movies
-http://yassooo.com:8080/Manaf/Manaf123/80220
-#EXTINF:-1,OSN Star World
-http://yassooo.com:8080/Manaf/Manaf123/80219
-#EXTINF:-1,OSN TLC
-http://yassooo.com:8080/Manaf/Manaf123/80218
-#EXTINF:-1,OSN Crime
-http://yassooo.com:8080/Manaf/Manaf123/80217
-#EXTINF:-1,OSN Comedy Central
-http://yassooo.com:8080/Manaf/Manaf123/80216
-#EXTINF:-1,OSN E!
-http://yassooo.com:8080/Manaf/Manaf123/80215
-#EXTINF:-1,OSN Living
-http://yassooo.com:8080/Manaf/Manaf123/80214
-#EXTINF:-1,OSN Alfa AlFann
-http://yassooo.com:8080/Manaf/Manaf123/80212
-#EXTINF:-1,OSN Alfa Al Safwa
-http://yassooo.com:8080/Manaf/Manaf123/80211
-#EXTINF:-1,OSN Alfa Alyoum
-http://yassooo.com:8080/Manaf/Manaf123/80210
-#EXTINF:-1,OSN Alfa Cinema 1
-http://yassooo.com:8080/Manaf/Manaf123/80209
-#EXTINF:-1,OSN Alfa Cinema 2
-http://yassooo.com:8080/Manaf/Manaf123/80208
-#EXTINF:-1,OSN Alfa Musalsalat
-http://yassooo.com:8080/Manaf/Manaf123/80207
-#EXTINF:-1,OSN Alfa Music Now
-http://yassooo.com:8080/Manaf/Manaf123/80205
-#EXTINF:-1,OSN News
-http://yassooo.com:8080/Manaf/Manaf123/80204
-#EXTINF:-1,OSN History
-http://yassooo.com:8080/Manaf/Manaf123/80203
-#EXTINF:-1,OSN H2
-http://yassooo.com:8080/Manaf/Manaf123/80202
-#EXTINF:-1,OSN Nat Geo
-http://yassooo.com:8080/Manaf/Manaf123/80201
-#EXTINF:-1,OSN Nat People
-http://yassooo.com:8080/Manaf/Manaf123/80200
-#EXTINF:-1,OSN Nat Geo Wild
-http://yassooo.com:8080/Manaf/Manaf123/80199
-#EXTINF:-1,OSN Discovery
-http://yassooo.com:8080/Manaf/Manaf123/80198
-#EXTINF:-1,OSN Discovery ID
-http://yassooo.com:8080/Manaf/Manaf123/80197
-#EXTINF:-1,OSN Discovery SC
-http://yassooo.com:8080/Manaf/Manaf123/80196
-#EXTINF:-1,OSN Disney
-http://yassooo.com:8080/Manaf/Manaf123/80195
-#EXTINF:-1,OSN Disney Junior
-http://yassooo.com:8080/Manaf/Manaf123/80194
-#EXTINF:-1,OSN Baby
-http://yassooo.com:8080/Manaf/Manaf123/80193
-#EXTINF:-1,OSN Nickelodeon
-http://yassooo.com:8080/Manaf/Manaf123/80192
-#EXTINF:-1,OSN Nick Jr
-http://yassooo.com:8080/Manaf/Manaf123/80191
-#EXTINF:-1,TVE 1
-http://yassooo.com:8080/Manaf/Manaf123/80190
-#EXTINF:-1,OSN Kids Zone
-http://yassooo.com:8080/Manaf/Manaf123/80189
-####           MBC GROUPE          ####
-
-#EXTINF:-1,MBC1 HD
-http://yassooo.com:8080/Manaf/Manaf123/80275
-#EXTINF:-1,MBC2 HD
-http://yassooo.com:8080/Manaf/Manaf123/80274
-#EXTINF:-1,MBC3 HD
-http://yassooo.com:8080/Manaf/Manaf123/80273
-#EXTINF:-1,MBC4 HD
-http://yassooo.com:8080/Manaf/Manaf123/80272
-#EXTINF:-1,MBC Drama HD
-http://yassooo.com:8080/Manaf/Manaf123/80271
-#EXTINF:-1,MBC Action HD
-http://yassooo.com:8080/Manaf/Manaf123/80270
-#EXTINF:-1,MBC Bollywood HD
-http://yassooo.com:8080/Manaf/Manaf123/80269
-#EXTINF:-1,MBC Variety HD
-http://yassooo.com:8080/Manaf/Manaf123/80268
-#EXTINF:-1,MBC Masir1 HD
-http://yassooo.com:8080/Manaf/Manaf123/80267
-#EXTINF:-1,MBC Drama+ HD
-http://yassooo.com:8080/Manaf/Manaf123/80266
-#EXTINF:-1,MBC Masir2 HD
-http://yassooo.com:8080/Manaf/Manaf123/80265
-#EXTINF:-1,MBC MAX HD
-http://yassooo.com:8080/Manaf/Manaf123/80264
-#EXTINF:-1,MBC Iraq HD
-http://yassooo.com:8080/Manaf/Manaf123/80263
-#EXTINF:-1,MBC 1 SD
-http://yassooo.com:8080/Manaf/Manaf123/80262
-#EXTINF:-1,MBC 2 SD
-http://yassooo.com:8080/Manaf/Manaf123/80261
-#EXTINF:-1,MBC 3 SD
-http://yassooo.com:8080/Manaf/Manaf123/80260
-#EXTINF:-1,MBC 4 SD
-http://yassooo.com:8080/Manaf/Manaf123/80259
-#EXTINF:-1,MBC Bollywood SD
-http://yassooo.com:8080/Manaf/Manaf123/80258
-#EXTINF:-1,MBC Max SD
-http://yassooo.com:8080/Manaf/Manaf123/80257
-#EXTINF:-1,MBC Iraq SD
-http://yassooo.com:8080/Manaf/Manaf123/80256
-#EXTINF:-1,MBC Action SD
-http://yassooo.com:8080/Manaf/Manaf123/80255
-#EXTINF:-1,MBC Drama SD
-http://yassooo.com:8080/Manaf/Manaf123/80254
-#EXTINF:-1 tvg-id="Ajyal TV ARB" tvg-name="Ajyal TV ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/j1Xmygq.jpg" group-title="",Ajyal TV
-http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ENTERTAINMENT",FR - NAUTICAL
+http://line.hi-live.me/ee99385295/1c6d465d59/543577
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ENTERTAINMENT",##### ENTERTAINMENT HIGHT QUALITY FHD  #####
+http://line.hi-live.me/ee99385295/1c6d465d59/628245
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ENTERTAINMENT",FR - E! ENTERTAINMENT FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/553981
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ENTERTAINMENT",FR - VICELAND FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/553989
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ENTERTAINMENT",FR - RMC STORY FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/554028
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ENTERTAINMENT",FR - NATIONAL GEO FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/554029
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ENTERTAINMENT",FR - NATIONAL GEO FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/554030
+#EXTINF:0 tvg-id="ChassePeche.fr" group-title="|EU| FRANCE ENTERTAINMENT",FR - CHASSE & PECHE FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/554031
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ENTERTAINMENT",FR - DISCOVERY ID FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/554032
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ENTERTAINMENT",FR - DISCOVERY FAMILY FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/554033
+#EXTINF:0 tvg-id="Discovery.fr" group-title="|EU| FRANCE ENTERTAINMENT",FR - DISCOVERY CHANNEL FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/554034
+#EXTINF:0 tvg-id="DiscoveryScience.fr" group-title="|EU| FRANCE ENTERTAINMENT",FR - DISCOVERY SCIENCE FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/554035
+#EXTINF:0 tvg-id="UshuaiaTV.fr" group-title="|EU| FRANCE ENTERTAINMENT",FR - USHUAIA FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/554036
+#EXTINF:0 tvg-id="Histoire.fr" group-title="|EU| FRANCE ENTERTAINMENT",FR - HISTOIRE FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/554037
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ENTERTAINMENT",FR - TOUTE L'HISTOIRE FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/554038
+#EXTINF:0 tvg-id="ScienceVie.fr" group-title="|EU| FRANCE ENTERTAINMENT",FR - SCIENCE ET VIE FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/554039
+#EXTINF:0 tvg-id="Seasons.fr" group-title="|EU| FRANCE ENTERTAINMENT",FR - SEASONS FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/554040
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ENTERTAINMENT",FR - PLANETE AE FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/554042
+#EXTINF:0 tvg-id="PLANETEJustice.fr" group-title="|EU| FRANCE ENTERTAINMENT",FR - PLANETE CI FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/554043
+#EXTINF:0 tvg-id="PLANETE.fr" group-title="|EU| FRANCE ENTERTAINMENT",FR - PLANETE + FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/554044
+#EXTINF:0 tvg-id="Animaux.fr" group-title="|EU| FRANCE ENTERTAINMENT",FR - ANIMAUX FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/554045
+#EXTINF:0 tvg-id="Museum.fr" group-title="|EU| FRANCE ENTERTAINMENT",FR - MUSEUM FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/554046
+#EXTINF:0 tvg-id="MTVLiveHD.fr" group-title="|EU| FRANCE ENTERTAINMENT",FR - MTV LIVE FHD
+http://line.hi-live.me/ee99385295/1c6d465d59/554047
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ENTERTAINMENT",FR - NRJ 12 UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/543168
+#EXTINF:0 tvg-id="NRJ12.fr" group-title="|EU| FRANCE ENTERTAINMENT",FR - NRJ 12
+http://line.hi-live.me/ee99385295/1c6d465d59/543169
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ENTERTAINMENT",FR - VICELAND UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/543220
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ENTERTAINMENT",FR - MTV UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/543225
+#EXTINF:0 tvg-id="MTV.fr" group-title="|EU| FRANCE ENTERTAINMENT",FR - MTV
+http://line.hi-live.me/ee99385295/1c6d465d59/543226
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ENTERTAINMENT",FR - TRACE URBAN UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/543254
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ENTERTAINMENT",FR - TRACE GOSPEL
+http://line.hi-live.me/ee99385295/1c6d465d59/543257
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ENTERTAINMENT",FR - M6 MUSIC UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/543261
+#EXTINF:0 tvg-id="M6MusicClub.fr" group-title="|EU| FRANCE ENTERTAINMENT",FR - M6 MUSIC
+http://line.hi-live.me/ee99385295/1c6d465d59/543262
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ENTERTAINMENT",FR - CSTAR HITS UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/543263
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ENTERTAINMENT",FR - CSTAR HITS
+http://line.hi-live.me/ee99385295/1c6d465d59/543264
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ENTERTAINMENT",FR - MCM UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/543265
+#EXTINF:0 tvg-id="MCM.fr" group-title="|EU| FRANCE ENTERTAINMENT",FR - MCM
+http://line.hi-live.me/ee99385295/1c6d465d59/543266
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ENTERTAINMENT",FR - MELODY UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/543267
+#EXTINF:0 tvg-id="TeleMelody.fr" group-title="|EU| FRANCE ENTERTAINMENT",FR - MELODY
+http://line.hi-live.me/ee99385295/1c6d465d59/543268
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ENTERTAINMENT",FR - NRJ HITS UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/543269
+#EXTINF:0 tvg-id="NRJHits.fr" group-title="|EU| FRANCE ENTERTAINMENT",FR - NRJ HITS
+http://line.hi-live.me/ee99385295/1c6d465d59/543270
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ENTERTAINMENT",##### FR DOCUMENTAIRE #####
+http://line.hi-live.me/ee99385295/1c6d465d59/543587
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ENTERTAINMENT",FR| CANAL+ DOCS UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/609331
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ENTERTAINMENT",FR| CANAL+ DOCS LQ
+http://line.hi-live.me/ee99385295/1c6d465d59/609330
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ENTERTAINMENT",FR - PLANETE+ UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/543546
+#EXTINF:0 tvg-id="PLANETE.fr" group-title="|EU| FRANCE ENTERTAINMENT",FR - PLANETE+
+http://line.hi-live.me/ee99385295/1c6d465d59/543547
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ENTERTAINMENT",FR - PLANETE AE UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/543548
+#EXTINF:0 tvg-id="PLANETEnoLIMIT.fr" group-title="|EU| FRANCE ENTERTAINMENT",FR - PLANETE AE
+http://line.hi-live.me/ee99385295/1c6d465d59/543549
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ENTERTAINMENT",FR - PLANETE CI UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/543550
+#EXTINF:0 tvg-id="PLANETEJustice.fr" group-title="|EU| FRANCE ENTERTAINMENT",FR - PLANETE CI
+http://line.hi-live.me/ee99385295/1c6d465d59/543551
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ENTERTAINMENT",FR - SCIENCE ET VIE UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/543552
+#EXTINF:0 tvg-id="ScienceVie.fr" group-title="|EU| FRANCE ENTERTAINMENT",FR - SCIENCE ET VIE
+http://line.hi-live.me/ee99385295/1c6d465d59/543553
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ENTERTAINMENT",FR - SEASONS UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/543554
+#EXTINF:0 tvg-id="Seasons.fr" group-title="|EU| FRANCE ENTERTAINMENT",FR - SEASONS
+http://line.hi-live.me/ee99385295/1c6d465d59/543555
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ENTERTAINMENT",FR - NATIONAL GEO UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/543556
+#EXTINF:0 tvg-id="NationalGeographic.fr" group-title="|EU| FRANCE ENTERTAINMENT",FR - NATIONAL GEO
+http://line.hi-live.me/ee99385295/1c6d465d59/543557
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ENTERTAINMENT",FR - NAT GEO WILD UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/543558
+#EXTINF:0 tvg-id="NatGeoWildHD.fr" group-title="|EU| FRANCE ENTERTAINMENT",FR - NAT GEO WILD
+http://line.hi-live.me/ee99385295/1c6d465d59/543559
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ENTERTAINMENT",FR - DISCOVERY CHANNEL UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/543560
+#EXTINF:0 tvg-id="Discovery.fr" group-title="|EU| FRANCE ENTERTAINMENT",FR - DISCOVERY CHANNEL
+http://line.hi-live.me/ee99385295/1c6d465d59/543561
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ENTERTAINMENT",FR - DISCOVERY INVESTIGATION UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/543562
+#EXTINF:0 tvg-id="DiscoveryInvestigation.fr" group-title="|EU| FRANCE ENTERTAINMENT",FR - DISCOVERY INVESTIGATION
+http://line.hi-live.me/ee99385295/1c6d465d59/543563
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ENTERTAINMENT",FR - DISCOVERY SCIENCE UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/543564
+#EXTINF:0 tvg-id="DiscoveryScience.fr" group-title="|EU| FRANCE ENTERTAINMENT",FR - DISCOVERY SCIENCE
+http://line.hi-live.me/ee99385295/1c6d465d59/543565
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ENTERTAINMENT",FR - DISCOVERY FAMILY UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/543566
+#EXTINF:0 tvg-id="DiscoveryFamily.fr" group-title="|EU| FRANCE ENTERTAINMENT",FR - DISCOVERY FAMILY
+http://line.hi-live.me/ee99385295/1c6d465d59/543567
+#EXTINF:0 tvg-id="CrimeDistrict.fr" group-title="|EU| FRANCE ENTERTAINMENT",FR - CRIME DISTRICT
+http://line.hi-live.me/ee99385295/1c6d465d59/629437
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ENTERTAINMENT",FR - ANIMAUX UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/543568
+#EXTINF:0 tvg-id="Animaux.fr" group-title="|EU| FRANCE ENTERTAINMENT",FR - ANIMAUX
+http://line.hi-live.me/ee99385295/1c6d465d59/543569
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ENTERTAINMENT",FR - HISTOIRE UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/543570
+#EXTINF:0 tvg-id="Histoire.fr" group-title="|EU| FRANCE ENTERTAINMENT",FR - HISTOIRE
+http://line.hi-live.me/ee99385295/1c6d465d59/543571
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ENTERTAINMENT",FR - TOUTE L'HISTOIRE UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/543572
+#EXTINF:0 tvg-id="TouteHistoire.fr" group-title="|EU| FRANCE ENTERTAINMENT",FR - TOUTE L'HISTOIRE
+http://line.hi-live.me/ee99385295/1c6d465d59/543573
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ENTERTAINMENT",FR - ULTRA NATURE UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/543574
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ENTERTAINMENT",FR - NAUTICAL UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/543576
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ENTERTAINMENT",FR - B SMART UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/543578
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ENTERTAINMENT",FR - B SMART
+http://line.hi-live.me/ee99385295/1c6d465d59/543579
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ENTERTAINMENT",FR - TREK UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/543580
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ENTERTAINMENT",FR - USHUAIA UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/543581
+#EXTINF:0 tvg-id="UshuaiaTV.fr" group-title="|EU| FRANCE ENTERTAINMENT",FR - USHUAIA
+http://line.hi-live.me/ee99385295/1c6d465d59/543582
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ENTERTAINMENT",FR - CHASSE & PECHE UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/543583
+#EXTINF:0 tvg-id="ChassePeche.fr" group-title="|EU| FRANCE ENTERTAINMENT",FR - CHASSE & PECHE
+http://line.hi-live.me/ee99385295/1c6d465d59/543584
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE ENTERTAINMENT",FR - RMC DECOUVERTE UHD
+http://line.hi-live.me/ee99385295/1c6d465d59/543585
+#EXTINF:0 tvg-id="RMCdecouverte.fr" group-title="|EU| FRANCE ENTERTAINMENT",FR - RMC DECOUVERTE
+http://line.hi-live.me/ee99385295/1c6d465d59/543586
